@@ -1,0 +1,26 @@
+---
+import '../styles/global.css';
+const { content } = Astro.props;
+---
+
+<html lang={content.lang || 'es'}>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<title>{content.title}</title>
+		<style>
+
+		</style>
+	</head>
+	<body>
+		<main class="content">
+			<header>
+				<nav class="nav">
+					<a href="/">Inicio</a>
+				</nav>
+			</header>
+			<slot />
+		</main>
+	</body>
+</html>
