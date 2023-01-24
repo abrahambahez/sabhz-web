@@ -1,0 +1,26 @@
+---
+const posts = await Astro.glob('./*.md');
+import Main from '../layouts/main.astro';
+function formatDate(str){
+	let date = new Date(str);
+	return date.toLocaleString('es-MX', 
+		{ weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' 
+	})
+}
+---
+
+<Main title="sabhz">
+
+<p>Archivo</p>
+
+<div>
+	{ 
+		posts.map(post => 
+			<p>
+			<span>{ formatDate(post.frontmatter.createdAt) } -</span>
+			<i><a href={post.url}> {post.frontmatter.title} </a></i>
+			</p>)
+	}
+</div>
+
+</Main>

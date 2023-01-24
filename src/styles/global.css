@@ -1,4 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=B612+Mono&family=Cardo:ital,wght@0,400;0,700;1,400&display=swap');
+
 body {
-	font-family: system-ui;
+	font-family: "Cardo", serif;
+	background-color: #1a1a1a;
+	color: white;
+	font-size: 19px;
+	overflow-wrap: break-word;
+	max-width:680px;
+	margin: 0 auto;
 }
 
+.content {
+	line-height: 1.5;
+	padding-left: 2px;
+}
+
+h1 {
+	font-size: 3.375rem;
+	line-height: 1.2;
+}
+
+h1,h2,h3 {
+	font-weight: bold;
+}
+
+h4,h5,h6 {
+	font-variant: small-caps;
+}
+
+a {
+	color: #007aff;
+}
+
+iframe {
+    max-width: 100%;
+}
+img {
+    max-width: 100%;
+}
+
+hr {
+    width:25vw;
+    border: solid 1px;
+    margin: 4rem 0;
+}
+
+ul li {
+   list-style-type: disc; 
+}
+
+code {
+	font-family: "B612 Mono";
+	font-size: .8rem;
+}
