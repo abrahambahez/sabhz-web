@@ -10,8 +10,6 @@ function defaultLayoutPlugin () {
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://sabhz.com',
-	base: '/',
 	// Enable Custom Markdown options, plugins, etc.
 	markdown: {
 		remarkPlugins: [
