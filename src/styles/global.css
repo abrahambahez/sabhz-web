@@ -1,40 +1,55 @@
-@import url('https://fonts.googleapis.com/css2?family=B612+Mono&family=Cardo:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap');
+
+:root {
+	--background-color-dark: #1c1d1d;
+	--background-color-light: #f2f1f1;
+	--text-color-dark: white;
+	--text-color-light: black;
+	--accent-color: indianred;
+}
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: var(--background-color-dark);
+		color: var(--text-color-dark);
+	}
+}
+
+@media (prefers-color-scheme: light) {
+	body {
+		background-color: var(--background-color-light);
+		color: var(--text-color-light);
+	}
+}
 
 body {
 	font-family: "Cardo", serif;
-	background-color: #1a1a1a;
-	color: white;
 	font-size: 19px;
+	line-height: 1.75;
 	overflow-wrap: break-word;
-	max-width:680px;
+	max-width:620px;
 	margin: 0 auto;
 }
 
-.content {
-	line-height: 1.5;
-	padding-left: 2px;
-}
-
-h1 {
-	font-size: 3.375rem;
-	line-height: 1.2;
-}
-
-h1,h2,h3 {
+h1,h2{
 	font-weight: bold;
+	line-height: 1;
+	margin-bottom:2rem;
 }
 
-h4,h5,h6 {
+h3,h4,h5,h6 {
 	font-variant: small-caps;
+	line-height:1;
 }
 
 a {
-	color: #007aff;
+	color: var(--accent-color);
 }
 
 iframe {
     max-width: 100%;
 }
+
 img {
     max-width: 100%;
 }
@@ -45,11 +60,7 @@ hr {
     margin: 4rem 0;
 }
 
-ul li {
-   list-style-type: disc; 
-}
-
 code {
-	font-family: "B612 Mono";
-	font-size: .8rem;
+	font-size: .8em;
+	color: var(--accent-color);
 }
