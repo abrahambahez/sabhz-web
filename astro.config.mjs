@@ -4,7 +4,7 @@ import addClasses from './add-classes.mjs';
 // custom function to inject a layout
 function defaultLayoutPlugin () {
   return function (tree, file) {
-    file.data.astro.frontmatter.layout = './src/layouts/main.astro'
+    file.data.astro.frontmatter.layout = '/src/layouts/main.astro'
   }
 }
 

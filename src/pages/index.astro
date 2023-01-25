@@ -4,7 +4,7 @@ import Main from '../layouts/main.astro';
 function formatDate(str){
 	let date = new Date(str);
 	return date.toLocaleString('es-MX', 
-		{ weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' 
+		{ year: 'numeric', month: 'long', day: 'numeric' 
 	})
 }
 ---
@@ -22,8 +22,7 @@ industria del software.</p>
 	{ 
 		posts.map(post => 
 			<p>
-			<span>{ formatDate(post.frontmatter.createdAt) } -</span>
-			<i><a href={post.url}> {post.frontmatter.title} </a></i>
+			<span>{ formatDate(post.frontmatter.createdAt) } -</span>			<i><a href={post.url}> {post.frontmatter.title} </a></i>
 			</p>)
 	}
 </div>

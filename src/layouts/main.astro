@@ -4,7 +4,7 @@ const { title } = Astro.props.frontmatter || Astro.props;
 const footerData = [
 	{
 		text: "Contacto",
-		link: "tacto@sabhz.com"
+		link: "mailto:tacto@sabhz.com"
 	},
 	{
 		text: "Archivo",
@@ -17,12 +17,9 @@ const footerData = [
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<title>{ title }</title>
-		<style>
-
-		</style>
 	</head>
+
 	<body>
 		<main>
 			<header>
@@ -33,7 +30,11 @@ const footerData = [
 			<slot />
 		</main>
 		<footer>
-			
+			<p>
+				{ footerData.map(item => 
+					<a href={item.link}> {item.text} </a>) 	
+				}
+			</p>
 		</footer>
 	</body>
 </html>

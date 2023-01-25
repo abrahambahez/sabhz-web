@@ -64,3 +64,11 @@ code {
 	font-size: .8em;
 	color: var(--accent-color);
 }
+footer {
+	margin-top:3rem;
+}
+
+footer > p {
+	display: flex;
+	justify-content: space-between;
+}
