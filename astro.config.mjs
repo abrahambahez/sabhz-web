@@ -19,7 +19,6 @@ export default defineConfig({
 		rehypePlugins: [
 			'rehype-slug',
 			[addClasses, { 'h1,h2,h3': 'title' }],
-		],
-		extendDefaultPlugins: true
+		]
 	},
 });
