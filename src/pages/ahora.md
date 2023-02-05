@@ -5,8 +5,8 @@ createdAt: 2023-02-01T09:30
 
 ## Escuela
 
-- Trataré de terminar el primer borrador completo de mi tesis doctoral. Mi último índice tentativo tenía 11 capítulos. Estoy terminando el tercero, aunque según mi plan, debería estar comenzando el quinto. Veremos.
-- Estoy cambiando mi proceso de toma de notas con [Obsidian](https://obsidian.md/) de vuelta a tener una sóla Bóveda que centralice todo
+- Trataré de terminar el primer borrador completo de mi tesis doctoral. Mi último índice tentativo tenía 11 capítulos. Estoy terminando el tercero, aunque según mi plan, debería estar comenzando el quinto. Veremos
+- Estoy cambiando mi proceso de toma de notas con [Obsidian](https://obsidian.md/) de vuelta a tener una sóla bóveda que centralice todo
 - Comencé a tomar clases de lengua maya los fines de semana
 
 ## Trabajo
