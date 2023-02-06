@@ -1,6 +1,8 @@
 ---
-title: "Optimizar el tiempo"
-createdAt: 2023-02-05T12:57
+bibliography: /Users/sabhz/Library/Mobile
+  Documents/com\~apple\~CloudDocs/Archivo/documentos/notas/librero.bib
+createdAt: "2023-02-05T12:57"
+title: Optimizar el tiempo
 ---
 
 Preocuparme por optimizar el tiempo «productivo» sin caer en la trampa
@@ -8,41 +10,38 @@ de la [*cultura de
 ajetreo*](https://thred.com/es/culture/the-rise-of-anti-hustle-culture/)
 o la
 [*autoexplotación*](https://elpais.com/cultura/2018/02/07/actualidad/1517989873_086219.html)
-parece una idea mal planteada. Tal vez la reducción de actividades sería
-más adecuada. El punto es que estoy en una trampa en la que yo mismo he
-caído y decidí aceptar el reto de llevarlo hasta sus últimas (mientras
-sanas) consecuencias. Trabajar y estudiar de *tiempo completo*, mientras
-trato de no descuidar el trabajo doméstico (ya sea en la planificación o
-en la ejecución) ni la vida social y afectiva, ese es el reto.
+parece una idea mal planteada. El punto es que estoy en una trampa en la
+que yo mismo he caído y decidí aceptar el reto de llevarlo hasta sus
+últimas (mientras sanas) consecuencias. Trabajar y estudiar de *tiempo
+completo*, y no descuidar el trabajo doméstico (ya sea en la
+planificación o en la ejecución) ni la vida social y afectiva, ese es el
+reto.
 
 En mi experiencia manejando agendas complicadas y horarios empalmados,
 el bloqueo de tiempo ha sido la estrategia más fructífera para mí. Pero
 existen múltiples factores más allá del tiempo que es necesario
 considerar. De hecho, **creo que existe una correlación entre esos
 factores y los efectos que la tecnología ha creado en otros ámbitos**.
-Internet nos trajo una sobreproducción de información, produciendo
-escasez de atención, lo que a su vez produjo que los contenidos de
-internet se enfocaran en estímulos de atención rápidos y efímeros, en
-detrimento de información más rica en profundidad. En el contexto donde
-el capitalismo cognitivo (donde se privilegia económicamente el trabajo
-mental como aprender, enseñar, programar, diseñar, investigar,
-planificar, analizar, etcétera) y esta tecnología coexisten, los nuevos
-recursos escasos son mentales.
+Internet nos trajo una sobre-oferta de información; luego, escasez de
+atención; y tras esto, *clickbait*, posverdad, conspiraciones. El tiempo
+es una variable más compleja, atada a ciertos modos de vida cuyo trabajo
+implica un *horario* y por tanto divisiones como tiempo libre versus
+tiempo de trabajo. El [capitalismo
+cognitivo](https://es.wikipedia.org/wiki/Capitalismo_cognitivo) y el
+trabajo remoto han difuminado estas diferencias, y han traído nuevos
+recursos escasos.
 
 ## Recursos escasos en el capitalismo cognitivo
 
-Los recursos escasos que he encontrado más valiosos relacionados con
-este modo de vida son el tiempo, la atención, la motivación, la energía
-y las relaciones sociales profundas. Quiero centrarme en el tiempo, y en
-menor medida, en su relación con el trabajo que requiere esfuerzo
-cognitivo.
+Algunos recursos escasos en este nuevo contexto son el tiempo, la
+atención, la motivación, la energía y las relaciones sociales profundas.
 
 La escasez de tiempo es un derivado conceptual del término económico de
-escasez pero aplicado al *tiempo como recurso*. Por tanto, la escasez de
-tiempo se produce socioculturalmente a partir de un eje de *percepción*
-de necesidad o deseo, que es variable; respecto del recurso percibido
-como constante. Este término es popular en el contexto de los discursos
-del emprendedurismo capitalista y la productividad en general.
+*escasez* pero aplicado al *tiempo como recurso*. Por tanto, la escasez
+de tiempo se produce socioculturalmente a partir de un eje de
+*percepción* de necesidad o deseo, que es variable; respecto del recurso
+percibido como constante. Este término es popular en el contexto de los
+discursos del emprendedurismo capitalista y la productividad en general.
 
 El tiempo como recurso es una idea occidental que emerge de la razón
 instrumental capitalista. Reagle Jr (2019, c. 3, sec. Time Thrift) cita
@@ -54,13 +53,13 @@ al historiador E. P. Thompson:
 > the day. In the morning, the farmer put the goats to pasture and
 > milked the cows. By the end of the day, the chickens were back in the
 > roost. Time was not a thing to be spent or saved, and there was less
-> of a division between “work” and “life.”
+> of a division between "work" and "life."
 
 ## Bloqueo de tiempo
 
-La táctica de trabajo más útil para mí han sido los bloqueos de tiempo.
-Los bloques de tiempo (*time blocking*) son una técnica de organización
-centrada en varios principios:
+La táctica de trabajo más útil para mí han sido los bloqueos de tiempo
+(*time blocking*), una técnica de organización centrada en algunas
+ideas:
 
 1.  Si no controlas tu agenda, la controlará alguien más
 2.  La planificación de actividades reduce o elimina el costo de cambio
@@ -93,18 +92,20 @@ nuevamente, de [Cal
 Newport](https://www.calnewport.com/blog/2008/11/11/plantxt-the-most-effective-productivity-tool-that-youve-never-heard-of/),
 que se ve algo así
 
-    ## Objetivo general
+``` markdown
+## Objetivo general
 
-    - Terminar capítulo 6
-    - Terminar pendientes de la casa: adornos y cita con dermatólogo
+- Terminar capítulo 6
+- Terminar pendientes de la casa: adornos y cita con dermatólogo
 
-    ## Semana
+## Semana
 
-    - Lunes 2023-01-30: Planificar sprint en Trabajo, definir tareas específicas del capítulo 6 de tesis, quitar adornos
-    - Martes 2023-01-31: Enfoque en el Trabajo del cliente 1, cliente 2 y escribir: tu trabajo es escribir! escribe!
-    - Miércoles 2023-02-01: Sesión de tesis es prioridad! síntesis de transcripciones, Trabajo: puedes trabajar en la migración del backlog
-    - Jueves 2023-02-02: Priorizar Trabajo proyectos 2 y 3, cita con dermatólogo
-    - Viernes 2023-02-03: Sesión de tesis fuera, pide el día de vacaciones y escribe el análisis del capítulo 6
+- Lunes 2023-01-30: Planificar sprint en Trabajo, definir tareas específicas del capítulo 6 de tesis, quitar adornos
+- Martes 2023-01-31: Enfoque en el Trabajo del cliente 1, cliente 2 y escribir: tu trabajo es escribir! escribe!
+- Miércoles 2023-02-01: Sesión de tesis es prioridad! síntesis de transcripciones, Trabajo: puedes trabajar en la migración del backlog
+- Jueves 2023-02-02: Priorizar Trabajo proyectos 2 y 3, cita con dermatólogo
+- Viernes 2023-02-03: Sesión de tesis fuera, pide el día de vacaciones y escribe el análisis del capítulo 6
+```
 
 ### Pomodoro
 
@@ -159,7 +160,9 @@ Mientras tanto, tengo algunas notas importantes con qué cerrar:
 
 ------------------------------------------------------------------------
 
-Madore, Kevin P, and Anthony D Wagner. 2019. “Multicosts of Multitasking.” In *Cerebrum: The Dana Forum on Brain Science*. Vol.
+Madore, Kevin P, and Anthony D Wagner. 2019. "Multicosts of
+Multitasking." In *Cerebrum: The Dana Forum on Brain Science*. Vol.
 2019. Dana Foundation.
 
-Reagle Jr, Joseph M. 2019. *Hacking Life: Systematized Living and Its Discontents*. MIT Press.
+Reagle Jr, Joseph M. 2019. *Hacking Life: Systematized Living and Its
+Discontents*. MIT Press.
