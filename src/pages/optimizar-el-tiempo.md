@@ -227,6 +227,8 @@ Mientras tanto, tengo algunas notas importantes con qué cerrar:
 
 ------------------------------------------------------------------------
 
+## Referencias
+
 Højrup, Thomas. 2017. *State, Culture and Life-Modes: The Foundations of
 Life-Mode Analysis.*
 
