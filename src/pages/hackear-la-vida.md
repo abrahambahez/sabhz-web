@@ -87,28 +87,35 @@ Esta sería, en resumen, la actitud del *ethos del hacker*.
 Voy a seguir a Reagle Jr (2019) en este apartado, porque es quien
 propone un orden interesante para entender aplicaciones concretas,
 aunque por supuesto, los temas no son exclusivos, ni siquiera los más
-ejemplares. Pero resultan buenas ilustraciones
+ejemplares. Pero resultan buenas ilustraciones.
 
 ### Tiempo
 
 Hackear el tiempo implica necesariamente verlo como un recurso escaso.
-El tiempo como recurso es limitado (de hecho, fijo), pero necesario para
-satisfacer una creciente lista de necesidades, cosas que hacer,
-proyectos que cumplir, cuidado que dar, etcétera. La escasez de tiempo.
-Para elaborar cualquier hack temporal hay que considerar esos dos
-elementos: el recurso y las necesidades. Entonces las estrategias se
-dividen en optimizar el tiempo u optimizar las necesidades.
+El tiempo como recurso es limitado (de hecho, fijo: todos tenemos 24h al
+día), pero necesario para satisfacer una creciente lista de necesidades,
+cosas que hacer, proyectos que cumplir, cuidado que dar, etcétera. Para
+elaborar cualquier hack temporal hay que considerar esos dos elementos:
+el recurso y las necesidades. Entonces, las estrategias se dividen en
+optimizar el tiempo u optimizar las necesidades.
 
 Optimizar las necesidades funciona esencialmente como la gestión de
 tareas. El modelo general para procesar tareas tiene la forma
-captura---proceso---ejecución (opcionalmente: medición). Así:
+captura-proceso-ejecución (opcionalmente: medición). Así:
 
--   Metodologías como Second Brain, GTD o la gestión ágil proponen
-    modelos similares.
+-   Metodologías como [Building a Second
+    Brain](https://youtu.be/SjZSy8s2VEE), [Getting Things
+    Done](https://gettingthingsdone.com/what-is-gtd/) o la [gestión
+    ágil](https://agileleanlife.com/agile-lean-you/) proponen modelos
+    similares: capturas en un inbox, lo procesas (priorizando,
+    calendarizando y demás), lo ejecutas y, si quieres optimizarlo, lo
+    mides
 -   Se ha propuesto que la relación entre trabajo y resultados sigue el
-    principio de Pareto, o regla de 80/20. Si esto es el caso, se
-    necesita un análisis para identificar cuál es el 20% de trabajo que
-    nos da 80% de resultado y reducir lo menos efectivo.
+    principio de Pareto, o regla de 80/20 (el gurú Richard Koch 2011
+    ganó fama con ello). Si esto es el caso (se ha criticado su
+    aplicación en el terreno donde nació, el económico, cfr. Mongin
+    2016), se necesita un análisis para identificar cuál es el 20% de
+    trabajo que nos da 80% de resultado y reducir lo menos efectivo.
 -   La priorización es una estrategia clave para *hacer lo más
     importante primero*, lo más importante puede decidirse con cosas
     como la [matriz de
@@ -124,15 +131,15 @@ captura---proceso---ejecución (opcionalmente: medición). Así:
     casi el 100% del trabajo. Si la ejecución la realiza la misma
     persona, se proponen cosas como
     [*deepwork*](https://www.calnewport.com/books/deep-work/) o sesiones
-    de enfoque ininterrumpido y sin distracciones. El
+    de enfoque ininterrumpido y sin distracciones.
 
 Optimizar el tiempo, como recurso, implica analizarlo y redistribuirlo o
-incrementarlo. Reconozco dos grupos de estrategias.
+incrementarlo. Reconozco dos grupos de estrategias en este ámbito.
 
 El primer grupo se enfoca en *agrupar* el tiempo y las actividades
 procurando maximizar los resultados minimizando el tiempo, debido a que
-se evita el costo de cambio de tarea y el trabajo reactivo. En este
-primer grupo están:
+se evita el costo de cambio de tarea (Madore and Wagner 2019) y el
+trabajo reactivo. En este primer grupo están:
 
 -   La técnica de pomodoro: 4 bloques de 25 minutos con 5 minutos de
     descanso entre cada uno y 30 minutos al final del grupo
@@ -185,10 +192,10 @@ Controlar liberación intermitente de dopamina:
 #### Control ecológico
 
 -   Diseño de affordances y el entorno: las disponibilidades o
-    *afordances* son *oportunidades* que el entorno ofrece a los
-    organismos para interactuar con él de alguna forma. El diseño y
-    control de las mismas puede promover conductas deseables y evitar
-    las indeseables
+    *affordances* (cfr. Zhang and Patel 2006) son *oportunidades* que el
+    entorno ofrece a los organismos para interactuar con él de alguna
+    forma. El diseño y control de las mismas puede promover conductas
+    deseables y evitar las indeseables
 
 ### Cosas
 
@@ -278,8 +285,9 @@ destacan:
     actividad física o alimentación y ver cómo varían son formas comunes
     de experimentación
 
-El segundo grupo podría catalogarse como [Biohacking]() y veo en él tres
-tipos de estrategias:
+El segundo grupo podría catalogarse como
+[Biohacking](https://es.wikipedia.org/wiki/Biolog%C3%ADa_DIY#Biohacking)
+y veo en él tres tipos de estrategias:
 
 -   Centradas en sustancias: suplementos, estimulantes, supresores,
     orgánicos o artificiales
@@ -445,10 +453,12 @@ narcisismo.
 ### Reproducción de desigualdades
 
 La productividad del hombre blanco podría considerarse una falacia
-informal derivada del sesgo colonial, en la cual se *venden* ciertas
-fórmulas para el éxito occidental generalizando su *efectividad global*,
-ignorando las condiciones sociohistóricas, frecuentemente usando la
-falacia del mérito.
+informal derivada del sesgo colonial (que universaliza la experiencia
+occidental), en la cual se *venden* ciertas fórmulas para el éxito
+occidental generalizando su *efectividad global*, ignorando las
+condiciones sociohistóricas y culturales de múltiples contextos,
+frecuentemente usando la falacia del mérito (si te esfuerzas lo
+suficiente esas condiciones no importan).
 
 Reagle Jr (2019, cap. 3, sec. desigualdad) cita la crítica de Alice
 Marwick a Tim Ferris cuando dice que él:
@@ -506,17 +516,33 @@ Studies Reader*. Routledge.
 Højrup, Thomas. 2017. *State, Culture and Life-Modes: The Foundations of
 Life-Mode Analysis.*
 
+Koch, Richard. 2011. *The 80/20 Individual: How to Accomplish More by
+Doing Less--the Nine Essentials of 80/20 Success at Work*. Panache
+Partners LLC.
+
+Madore, Kevin P, and Anthony D Wagner. 2019. "Multicosts of
+Multitasking." In *Cerebrum: The Dana Forum on Brain Science*. Vol.
+2019. Dana Foundation.
+
 Marinas, José Miguel. 2000. "Simmel y La Cultura Del Consumo." *Reis*,
 no. 89: 183. <https://doi.org/10.2307/40184230>.
 
 Mauss, Marcel. 1973. "Techniques of the Body." *Economy and Society* 2
 (1): 70--88. <https://doi.org/10.1080/03085147300000003>.
 
+Mongin, Philippe. 2016. "Spurious Unanimity and the Pareto Principle."
+*Economics & Philosophy* 32 (3): 511--32.
+<https://doi.org/10.1017/S0266267115000371>.
+
 Reagle Jr, Joseph M. 2019. *Hacking Life: Systematized Living and Its
 Discontents*. First. MIT Press.
 
 Wark, McKenzie. 2013. "A Hacker's Manifesto." *The Anarchist Library*.
 https://anarchotranshuman.org/post/49990204445/a-hackers-manifesto-by-mckenzie.
+
+Zhang, Jiajie, and Vimla L Patel. 2006. "Distributed Cognition,
+Representation, and Affordance." *Pragmatics & Cognition* 14 (2):
+333--41.
 
 [^1]: Aún no me queda claro cómo se determinan los límites del sistema.
     Por ejemplo, no sé si el conjunto de miembros es considerado un

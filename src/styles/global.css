@@ -4,7 +4,7 @@
 	--text-color-dark: white;
 	--text-color-light: black;
 	--accent-color: lightcoral;
-	--serif: Georgia, Times New Roman, serif;
+	--serif: Georgia, "Times New Roman", serif;
 	--sans-serif: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
