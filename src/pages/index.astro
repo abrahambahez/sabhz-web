@@ -2,7 +2,7 @@
 const posts = await Astro.glob('./*.md');
 posts.sort((a, b) => Date.parse(b.frontmatter.createdAt) - Date.parse(a.frontmatter.createdAt));
 import Main from '../layouts/main.astro';
-function formatDate(str){
+function formatDate(str: string){
 	let date = new Date(str);
 	return date.toLocaleString('es-MX', 
 		{ year: 'numeric', month: 'long', day: 'numeric' 
@@ -12,10 +12,8 @@ function formatDate(str){
 
 <Main title="sabhz">
 
-<p>Escribo sobre humanidades digitales, activismos, formas interesantes de organización, productividad y gestión de
-conocimiento colectiva y personal. Estudio un doctorado en antropología y tengo un trabajo en la
-industria del software.</p>
-<p>Prefiero conversar donde no hay redes sociales: <a href="mailto:tacto@sabhz.com">tacto@sabhz.com</a></p>
+<p>Antropología, filosofía, tecnología. <a href="credo">Esto es lo que creo</a>. Prefiero conversar donde no hay redes sociales: <a href="mailto:tacto@sabhz.com">tacto@sabhz.com</a></p>
+
 
 <h2>Archivo</h2>
 
@@ -23,7 +21,8 @@ industria del software.</p>
 	{ 
 		posts.map(post => 
 			<p>
-			<span>{ formatDate(post.frontmatter.createdAt) } -</span>			<i><a href={post.url}> {post.frontmatter.title} </a></i>
+				<span>{ formatDate(post.frontmatter.createdAt) } -</span>
+				<i><a href={post.url}> {post.frontmatter.title} </a></i>
 			</p>)
 	}
 </div>
