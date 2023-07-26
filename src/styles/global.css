@@ -3,7 +3,7 @@
 	--background-color-light: #f2f1f1;
 	--text-color-dark: white;
 	--text-color-light: black;
-	--accent-color: lightcoral;
+	--accent-color: #8c6cff;
 	--serif: Georgia, "Times New Roman", serif;
 	--sans-serif: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
@@ -27,7 +27,7 @@ body {
 	font-size: 18px;
 	line-height: 1.75;
 	overflow-wrap: break-word;
-	max-width: 760px;
+	max-width: 600px;
 	margin: 0 auto;
 	padding: 0 1rem;
 }
