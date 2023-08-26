@@ -6,7 +6,7 @@ updatedAt: 2023-07-25T16:08
 
 ## Escuela
 
-- Trataré de terminar el ~~primer~~segundo borrador completo de mi tesis doctoral.
+- Trataré de terminar el ~~primer~~ segundo borrador completo de mi tesis doctoral.
 - Estoy cambiando mi proceso de toma de notas con [Obsidian](https://obsidian.md/) de vuelta a tener una sóla bóveda que centralice todo
 - Comencé a tomar clases de lengua maya los fines de semana. Las dejé por falta de tiempo
 

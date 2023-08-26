@@ -1,17 +1,22 @@
+ @import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,900;1,400;1,900&display=swap');
 :root {
 	--background-color-dark: #1c1d1d;
 	--background-color-light: #f2f1f1;
 	--text-color-dark: white;
 	--text-color-light: black;
-	--accent-color: #8c6cff;
+	--accent-color-light: slateBlue;
+	--accent-color-dark: mediumSlateBlue;
 	--serif: Georgia, "Times New Roman", serif;
-	--sans-serif: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+	--sans-serif: 'Archivo', system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
 	body {
 		background-color: var(--background-color-dark);
 		color: var(--text-color-dark);
+	}
+	a {
+		color: var(--accent-color-dark);
 	}
 }
 
@@ -20,14 +25,17 @@
 		background-color: var(--background-color-light);
 		color: var(--text-color-light);
 	}
+	a {
+		color: var(--accent-color-light);
+	}
 }
 
 body {
-	font-family: var(--serif);
+	font-family: var(--sans-serif);
 	font-size: 18px;
 	line-height: 1.75;
 	overflow-wrap: break-word;
-	max-width: 600px;
+	max-width: 650px;
 	margin: 0 auto;
 	padding: 0 1rem;
 }
@@ -47,10 +55,6 @@ h6 {
 	font-family: var(--sans-serif);
 	text-transform: uppercase;
 	line-height: 1;
-}
-
-a {
-	color: var(--accent-color);
 }
 
 iframe {
