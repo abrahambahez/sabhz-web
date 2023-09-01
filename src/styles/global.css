@@ -2,8 +2,8 @@
 :root {
 	--background-color-dark: #1c1d1d;
 	--background-color-light: #f2f1f1;
-	--text-color-dark: white;
-	--text-color-light: black;
+	--text-color-dark: #d8d8d8;
+	--text-color-light: #1e1e1e;
 	--accent-color-light: slateBlue;
 	--accent-color-dark: mediumSlateBlue;
 	--serif: Georgia, "Times New Roman", serif;
@@ -33,7 +33,7 @@
 body {
 	font-family: var(--sans-serif);
 	font-size: 18px;
-	line-height: 1.75;
+	line-height: 1.8;
 	overflow-wrap: break-word;
 	max-width: 650px;
 	margin: 0 auto;

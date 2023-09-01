@@ -1,6 +1,7 @@
 ---
 title: "Nuevos temas para el blog"
 createdAt: 2023-07-25T14:43
+updatedAt: 2023-07-25T14:43
 ---
 
 Compré este dominio hace tres años. Desde entonces, dos veces al año elimino todo el contenido, lo rediseño y lo re-escribo, tanto en código como en texto. He pensado en escribir observaciones de mis experiencias, mínimas notas teóricas (zettelkasten) o pedazos más densos de mis ensayos de doctorado. Nada permanece, ni parece ser suficiente.
