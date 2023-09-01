@@ -80,7 +80,7 @@ footer {
 	margin-top: 3rem;
 }
 
-footer>p {
-	display: flex;
-	justify-content: space-between;
+footer>p>a {
+	padding-right: 2rem;
 }
+
