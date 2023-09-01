@@ -1,5 +1,5 @@
 {
-  "name": "@example/with-markdown-plugins",
+  "name": "sabhz",
   "type": "module",
   "version": "0.0.2",
   "private": true,
@@ -15,6 +15,7 @@
     "@astrojs/rss": "^3.0.0",
     "astro": "^3.0.5",
     "hast-util-select": "5.0.1",
+    "markdown-it": "^13.0.1",
     "rehype-autolink-headings": "^6.1.1",
     "rehype-citation": "^0.5.0",
     "rehype-slug": "^5.0.1",
