@@ -1,7 +1,7 @@
 ---
-title: "Credo"
+title: Credo
 createdAt: 2023-01-24T08:22
-updatedAt: 2023-02-04T15:44
+updatedAt: 2023-09-01T17:38
 ---
 
 El blogger Buster Benson popularizó la idea del [*Codex vitae*](https://buster.wiki/beliefs/), un archivo, publicación o documento donde uno pone una lista con sus creencias y una breve descripción sobre ellas. El CEO de Medium, Tony Stubblebine, le dio más eco en una de sus publicaciones para [BetterHumans Pub](https://betterhumans.pub/codex-vitae-635f97552092). 

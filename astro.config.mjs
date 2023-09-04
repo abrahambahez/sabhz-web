@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import addClasses from './add-classes.mjs';
+import rehypeCitation from 'rehype-citation';
 
 // custom function to inject a layout
 function defaultLayoutPlugin () {
@@ -20,6 +21,10 @@ export default defineConfig({
 		rehypePlugins: [
 			'rehype-slug',
 			[addClasses, { 'h1,h2,h3': 'title' }],
+			[rehypeCitation, { 
+				"bibliography": "https://raw.githubusercontent.com/abrahambahez/notas/main/librero.bib",
+				"linkCitations": true
+			}]
 		]
 	},
 });

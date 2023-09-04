@@ -22,4 +22,5 @@ pnpm-debug.log*
 
 # Obsidian
 .obsidian/
-
+.obsidian*
+src/content/posts/tmp/

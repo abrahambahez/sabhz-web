@@ -1,7 +1,7 @@
 ---
 title: Ahora
 createdAt: 2023-02-01T09:30
-updatedAt: 2023-07-25T16:08
+updatedAt: 2023-09-01T17:38
 ---
 
 ## Escuela

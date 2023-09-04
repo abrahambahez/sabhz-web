@@ -25,7 +25,7 @@ function formatDate(str: string){
 	{
 		posts.map(post => 
 			<p>
-				<span>{ formatDate(post.data.createdAt) } -</span>
+				<span>{ formatDate(post.data.createdAt) } — </span>
 				<i><a href={post.slug}> {post.data.title} </a></i>
 			</p>)
 	}
