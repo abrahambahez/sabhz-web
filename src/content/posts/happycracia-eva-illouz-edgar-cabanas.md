@@ -1,9 +1,9 @@
 ---
 title: Happycracia, de Eva Illouz y Edgar Cabanas
 createdAt: 2023-09-04T16:43
-updatedAt: 2023-09-04T17:19
+updatedAt: 2023-09-05T09:57
 ---
-Colección: [libros](libros)
+Colección: [lecturas](lecturas.md)
 
 ![happycracia-eva-illouz-edgar-cabanas](./happycracia-eva-illouz-edgar-cabanas.jpg)
 

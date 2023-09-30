@@ -1,20 +1,18 @@
 ---
 title: Ahora
 createdAt: 2023-02-01T09:30
-updatedAt: 2023-09-01T17:38
+updatedAt: 2023-09-05T09:57
 ---
 
 ## Escuela
 
-- Trataré de terminar el ~~primer~~ segundo borrador completo de mi tesis doctoral.
-- Estoy cambiando mi proceso de toma de notas con [Obsidian](https://obsidian.md/) de vuelta a tener una sóla bóveda que centralice todo
-- Comencé a tomar clases de lengua maya los fines de semana. Las dejé por falta de tiempo
+- Estoy en revisión del segundo borrador de mi tesis doctoral
+- Tomo un diplomado sobre racismo y xenofobia para el doctorado
 
 ## Trabajo
 
-- Debido al *hype* detonado por la apertura de [ChatGPT](https://es.wikipedia.org/wiki/ChatGPT#Recepci%C3%B3n), mi trabajo se ha transformado y todavía no encuentro el balance correcto
+- Debido al *hype* detonado por la apertura de [ChatGPT](https://es.wikipedia.org/wiki/ChatGPT#Recepci%C3%B3n), estamos integrando capas de análisis automatizados sobre los datos textuales que extraemos
 
 ## Personal
 
-- Dada la presión del trabajo y de enfocarme en rehacer el borrador de la tesis, trato de mantenerme lo menos estresado posible.
-
+- Dada la presión del trabajo y de enfocarme en rehacer el borrador de la tesis, trato de mantenerme lo menos estresado posible. Uso todo lo que tengo a la mano para [optimizar el tiempo](optimizar-el-tiempo) y no descuidar mi salud

@@ -1,7 +1,7 @@
 ---
-title: Libros
+title: Lecturas
 createdAt: 2023-09-01T17:39
-updatedAt: 2023-09-04T12:59
+updatedAt: 2023-09-05T09:57
 ---
 En esta publicación registro las lecturas que voy haciendo desde septiembre del 2023. 
 
