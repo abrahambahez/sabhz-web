@@ -3,8 +3,8 @@ import '/src/styles/global.css';
 const { title } = Astro.props.frontmatter || Astro.props;
 const footerData = [
 	{
-		text: "Archivo",
-		link: "archivo"
+		text: "Contacto",
+		link: "mailto:tacto@sabhz.com"
 	},
 	{
 		text: "Ahora",
@@ -38,6 +38,9 @@ const footerData = [
 			<slot />
 		</main>
 		<footer>
+			<p>❦</p>
+			<p><a href="archivo">Archivo de publicaciones</a></p>
+			<p>Saber más:</p>
 			<p>
 				{ footerData.map(item => 
 					<a href={item.link}> {item.text} </a>) 	
