@@ -22,7 +22,7 @@ export default defineConfig({
 			'rehype-slug',
 			[addClasses, { 'h1,h2,h3': 'title' }],
 			[rehypeCitation, { 
-				"bibliography": "https://raw.githubusercontent.com/abrahambahez/notas/main/librero.bib",
+				"bibliography": 'src/content/posts/librero.bib', //"https://raw.githubusercontent.com/abrahambahez/notas/main/librero.bib",
 				"linkCitations": true
 			}]
 		]

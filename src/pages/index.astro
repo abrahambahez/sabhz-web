@@ -1,34 +1,17 @@
 ---
 import { getCollection } from 'astro:content';
+import { getEntry } from 'astro:content';
 import Main from '../layouts/main.astro';
 
 const posts = await getCollection('posts');
 
-posts.sort((a, b) => Date.parse(b.data.createdAt) - Date.parse(a.data.createdAt));
+const collator = new Intl.Collator(undefined)
+const sortedPosts = posts.sort((a,b) => collator.compare(a.data.createdAt, b.data.createdAt)).reverse()
 
-function formatDate(str: string){
-	let date = new Date(str);
-	return date.toLocaleString('es-MX', 
-		{ year: 'numeric', month: 'long', day: 'numeric' 
-	})
-}
+// const { entry } = Astro.props;
+const { Content } = await sortedPosts[0].render();
+
 ---
 
-<Main title="sabhz">
+<Content />
 
-<p>Antropología, filosofía, tecnología. <a href="credo">Esto es lo que creo</a>. Prefiero conversar donde no hay redes sociales: <a href="mailto:tacto@sabhz.com">tacto@sabhz.com</a></p>
-
-
-<h2>Archivo</h2>
-
-<div>
-	{
-		posts.map(post => 
-			<p>
-				<span>{ formatDate(post.data.createdAt) } — </span>
-				<i><a href={post.slug}> {post.data.title} </a></i>
-			</p>)
-	}
-</div>
-
-</Main>
