@@ -10,8 +10,8 @@ const sortedPosts = posts.sort((a,b) => collator.compare(a.data.createdAt, b.dat
 function formatDate(str: string){
 	let date = new Date(str);
 	return date.toLocaleString('es-MX',	
-		{ year: 'numeric', month: 'long', day: 'numeric' 
-	})
+		{ year: 'numeric', month: 'long', day: 'numeric'}
+	)
 }
 ---
 
@@ -23,7 +23,7 @@ function formatDate(str: string){
 	{
 		sortedPosts.map(post => 
 			<p>
-				<span>{ formatDate(post.data.createdAt) } — </span>
+				<span class="dateStyle">{ formatDate(post.data.createdAt) } — </span>
 				<i><a href={post.slug}> {post.data.title} </a></i>
 			</p>)
 	}
