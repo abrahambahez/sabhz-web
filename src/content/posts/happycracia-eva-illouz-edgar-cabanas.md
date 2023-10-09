@@ -1,7 +1,7 @@
 ---
 title: Happycracia, de Eva Illouz y Edgar Cabanas
 createdAt: 2023-09-04T16:43
-updatedAt: 2023-09-05T09:57
+updatedAt: 2023-10-08T23:11
 ---
 Colección: [lecturas](lecturas.md)
 
@@ -9,7 +9,7 @@ Colección: [lecturas](lecturas.md)
 
 ¿Crees que la felicidad es la meta más importante en tu vida? ¿Crees que el fin último de la política, la economía, aquello que valida su eficacia, es facilitar la felicidad en los consumidores y ciudadanos? Tal vez sí. Pero ¿qué significa exactamente, ser feliz? ¿Cómo es posible comparar tu felicidad con la mía, sobre todo pensando en que, lo que dos personas creen que necesitan para alcanzar la felicidad jamás será lo mismo?
 
-Estas son, a mi juicio, las preguntas centrales del libro del psicólogo español Edgar Cabanas y la socióloga francesa Eva Illouz [-@illouz&cabanas2019]. A partir de ellas, y otras de orden metodológico y analítico, plantean una fuerte crítica a la psicología positiva, a la economía política de la felicidad y al modelo de [«vida buena»](https://www.edge.org/3rd_culture/seligman04/seligman_index.html) que plantean estos paradigmas.
+Estas son, a mi juicio, las preguntas centrales del libro del psicólogo español Edgar Cabanas y la socióloga francesa Eva Illouz [@illouz&cabanas2019]. A partir de ellas, y otras de orden metodológico y analítico, plantean una fuerte crítica a la psicología positiva, a la economía política de la felicidad y al modelo de [«vida buena»](https://www.edge.org/3rd_culture/seligman04/seligman_index.html) que plantean estos paradigmas.
 
 ## ¿Cómo argumentan su crítica?
 
@@ -29,7 +29,7 @@ El último capítulo, *Ser feliz, la nueva normalidad* es una crítica a varios 
 
 Ubico a esta obra en un conjunto de libros que explican de forma crítica la esfera ideológica del neoliberalismo, en este caso, a partir de la historia de la psicología positiva, que ha fortalecido el núcleo cultural más importante de este periodo histórico: el individualismo. Creo que el individualismo es la condición necesaria del neoliberalismo, sin el cual no tendría sentido. El egoísmo racional, la competitividad inmisericorde, la idea del mérito, son todos conceptos dependientes de la idea del individuo como entidad autosuficiente, como sujeto político, económico y moral último, como fin. La felicidad que se critica en este libro es la felicidad individual de este sujeto histórico del capitalismo post-industrial.
 
-Los apologetas de la felicidad sostienen que es un bien autoevidente e intrínsecamente bueno. Con esto, eliminan la necesidad de justificar por qué la felicidad es, como ellos consideran, la meta que todas las personas del mundo buscan, o deberían buscar, y además, que la buscan de la misma forma. Sobra decir que esto contiene un sesgo etnocéntrico y colonial evidente, pues tanto el propósito en la vida, como la felicidad, son cosas que varían de modos que los vuelven incomparables [ve una perspectiva etnográfica en @kavedzija&al2016].
+Los apologetas de la felicidad sostienen que es un bien autoevidente e intrínsecamente bueno. Con esto, eliminan la necesidad de justificar por qué la felicidad es, como ellos consideran, la meta que todas las personas del mundo buscan, o deberían buscar, y además, que la buscan de la misma forma. Sobra decir que esto contiene un sesgo etnocéntrico y colonial evidente, pues tanto el propósito en la vida, como la felicidad, son cosas que varían de modos que los vuelven incomparables [Ver una perspectiva etnográfica en @kavedzija&al2016].
 
 De los últimos capítulos destaco una serie de proposiciones encadenadas que los autores van esbozando hasta llegar a la conclusión falaz, pero sutil, que sostienen los psicólogos positivos. Consideremos la siguiente serie de afirmaciones:
 
@@ -54,6 +54,3 @@ Por lo tanto, según sus defensores, la positividad es inherentemente buena, uni
 - No ser feliz es negar el objetivo de la vida
 
 Por tanto, no puedes no ser feliz.
-
----
-## Referencias

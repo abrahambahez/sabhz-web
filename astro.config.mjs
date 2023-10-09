@@ -24,9 +24,10 @@ export default defineConfig({
 			[rehypeCitation, { 
 				// for local dev migrate file to this path: 'src/content/posts/librero.bib',
 				"bibliography":"https://raw.githubusercontent.com/abrahambahez/notas/main/librero.bib",
-				"csl":"chicago",
-				//"csl": "https://mirror.las.iastate.edu/tex-archive/biblio/citation-style-language/chicago-note-bibliography.csl",
-				//"suppressBibliography": true,
+				//"csl":"chicago",
+				"csl": "src/content/posts/escuela-nacional-de-antropologia-e-historia-full-note.csl",
+				//"src/content/posts/chicago-fullnote-bibliography.csl",
+				"suppressBibliography": true,
 				"lang": "https://mirror2.sandyriver.net/pub/ctan/biblio/citation-style-language/csl-locales-es-MX.xml"
 
 			}]

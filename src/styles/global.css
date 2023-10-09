@@ -90,3 +90,17 @@ footer>p {
 .dateStyle {
 	opacity: .6;
 }
+
+
+#footnote-label {
+	visibility: hidden;
+	position: relative;
+}
+
+#footnote-label:after {
+	visibility: visible;
+	position: absolute;
+	top:0;
+	left:0;
+	content: "Notas";
+}
