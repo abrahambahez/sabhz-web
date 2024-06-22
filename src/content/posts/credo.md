@@ -1,14 +1,15 @@
 ---
 title: Credo
 createdAt: 2023-01-24T08:22
-updatedAt: 2023-09-01T17:38
+updatedAt: 2024-06-21T17:27
 ---
 
 El blogger Buster Benson popularizó la idea del [*Codex vitae*](https://buster.wiki/beliefs/), un archivo, publicación o documento donde uno pone una lista con sus creencias y una breve descripción sobre ellas. El CEO de Medium, Tony Stubblebine, le dio más eco en una de sus publicaciones para [BetterHumans Pub](https://betterhumans.pub/codex-vitae-635f97552092). 
 
-Buscando un poco uno puede encontrar muchos blogs que refieren, o se autonombran, *Codex Vitae*, que se traduce comúnmente *libro de la vida*, haciendo referencia a que es un repositorio donde uno pone su filosofía particular. La expresión está en latín: de *codex*, generalmente traducido como libro  (encuadernado), término que, por cierto, no era tan común en la Roma antigua y que nos dio la palabra *código* en español. Según una nota del [diccionario etimológico en *dechile.net*](http://etimologias.dechile.net/?co.dice), en esa época designaba más bien tablillas de madera  donde se escribían contabilidades, testamentos y cartas, sólo tras la llegada del cristianismo cambió su sentido al de *libro* como lo conocemos; acompañando la modificación de todo el sistema de producción y difusión impresa del conocimiento, así como sus propósitos. La palabra *vitae* es el [genitivo singular](https://es.wikipedia.org/wiki/Declinaciones_del_lat%C3%ADn#Caso_genitivo) de *vita*, vida.
+Buscando un poco, uno puede encontrar muchos blogs que refieren, o se autonombran, *Codex Vitae*[^1], que se traduce comúnmente *libro de la vida*, haciendo referencia a que es un repositorio donde uno pone su filosofía particular. La idea es listar tus creencias en el mismo lugar, como un ejercicio de autoreflexión, casi terapéutico para la identidad personal. A mí no me interesa tanto entenderme como individuo, sino que me interesa como ejercicio de *reflexividad epistemológica*, es decir, como un modo de evaluar y confrontar mis creencias como productos de una historia social.
 
-La idea es listar tus creencias en el mismo lugar, como un ejercicio de autoreflexión, casi terapéutico para la identidad personal. A mí no me interesa tanto entenderme como individuo, sino que me interesa como ejercicio de *reflexividad epistemológica*, es decir, como un modo de evaluar y confrontar mis creencias como productos de una historia social.
+[^1]: La expresión está en latín: de *codex*, generalmente traducido como libro  (encuadernado), término que, por cierto, no era tan común en la Roma antigua y que nos dio la palabra *código* en español. Según una nota del [diccionario etimológico en *dechile.net*](http://etimologias.dechile.net/?co.dice), en esa época designaba más bien tablillas de madera  donde se escribían contabilidades, testamentos y cartas, sólo tras la llegada del cristianismo cambió su sentido al de *libro* como lo conocemos; acompañando la modificación de todo el sistema de producción y difusión impresa del conocimiento, así como sus propósitos. La palabra *vitae* es el [genitivo singular](https://es.wikipedia.org/wiki/Declinaciones_del_lat%C3%ADn#Caso_genitivo) de *vita*, vida.
+
 
 ## Lista de creencias
 
@@ -25,5 +26,3 @@ Tiendo a estar de acuerdo con los [argumentos antirrealistas para la ciencia](ht
 ### Creo que el anarquismo es la única posición política legítima
 
 No me considero estrictamente anarquista, me falta la práctica en un sentido militante. Tiendo al pesismismo, y el anarquismo es la perspectiva más optimista que conozco. Aún así, estoy convencido de que la igualdad entre personas, la solidaridad y el autogobierno son los únicos términos aceptables para la vida política.
-
-<!--### La diversidad debe crear riqueza, no división-->

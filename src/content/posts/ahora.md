@@ -1,13 +1,13 @@
 ---
 title: Ahora
 createdAt: 2023-02-01T09:30
-updatedAt: 2023-09-05T09:57
+updatedAt: 2024-05-31T18:18
 ---
 
 ## Escuela
 
-- Estoy en revisión del segundo borrador de mi tesis doctoral
-- Tomo un diplomado sobre racismo y xenofobia para el doctorado
+- Estoy escribiendo el *cuarto* borrador de mi tesis doctoral
+- Estoy en la última fase de mi proceso de doctorado en Ciencias antropológicas
 
 ## Trabajo
 

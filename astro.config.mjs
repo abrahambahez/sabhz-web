@@ -1,36 +1,35 @@
-import { defineConfig } from 'astro/config';
-import addClasses from './add-classes.mjs';
-import rehypeCitation from 'rehype-citation';
+import { defineConfig } from "astro/config";
+import addClasses from "./add-classes.mjs";
+import rehypeCitation from "rehype-citation";
+import sidenotes from "remark-sidenotes";
 
 // custom function to inject a layout
-function defaultLayoutPlugin () {
+function defaultLayoutPlugin() {
   return function (tree, file) {
-    file.data.astro.frontmatter.layout = '/src/layouts/main.astro'
-  }
+    file.data.astro.frontmatter.layout = "/src/layouts/main.astro";
+  };
 }
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://sabhz.com',
-	// Enable Custom Markdown options, plugins, etc.
-	markdown: {
-		remarkPlugins: [
-			'remark-code-titles',
-			defaultLayoutPlugin
-		],
-		rehypePlugins: [
-			'rehype-slug',
-			[addClasses, { 'h1,h2,h3': 'title' }],
-			[rehypeCitation, { 
-				// for local dev migrate file to this path: 'src/content/posts/librero.bib',
-				"bibliography":"https://raw.githubusercontent.com/abrahambahez/notas/main/librero.bib",
-				//"csl":"chicago",
-				"csl": "src/content/posts/escuela-nacional-de-antropologia-e-historia-full-note.csl",
-				//"src/content/posts/chicago-fullnote-bibliography.csl",
-				"suppressBibliography": true,
-				"lang": "https://mirror2.sandyriver.net/pub/ctan/biblio/citation-style-language/csl-locales-es-MX.xml"
-
-			}]
-		]
-	},
+  site: "https://sabhz.com",
+  // Enable Custom Markdown options, plugins, etc.
+  markdown: {
+    remarkPlugins: ["remark-code-titles", defaultLayoutPlugin, sidenotes],
+    rehypePlugins: [
+      "rehype-slug",
+      [addClasses, { "h1,h2,h3": "title" }],
+      [
+        rehypeCitation,
+        {
+          // for local dev migrate file to this path: 'public/references.json',
+          bibliography: "public/references.json",
+          csl: "chicago",
+          linkCitations: true,
+          inlineClass: ["citation"],
+          lang: "https://raw.githubusercontent.com/citation-style-language/locales/master/locales-es-MX.xml",
+        },
+      ],
+    ],
+  },
 });

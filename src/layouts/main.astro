@@ -1,50 +1,87 @@
 ---
-import '/src/styles/global.css';
+import "/src/styles/global.css";
+import "/src/styles/sidenotes.css";
 const { title } = Astro.props.frontmatter || Astro.props;
 const footerData = [
-	{
-		text: "Contacto",
-		link: "mailto:tacto@sabhz.com"
-	},
-	{
-		text: "Ahora",
-		link: "ahora"
-	},
-	{
-		text: "Lecturas",
-		link: "lecturas"
-	},
-	{
-		text: "RSS",
-		link: "rss.xml"
-	}
-]
+    {
+        text: "Contacto",
+        link: "mailto:tacto@sabhz.com",
+    },
+    {
+        text: "Ahora",
+        link: "ahora",
+    },
+    {
+        text: "Lecturas",
+        link: "lecturas",
+    },
+    {
+        text: "RSS",
+        link: "rss.xml",
+    },
+];
 ---
 
-<html lang='es'>
-	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width" />
-		<title>{ title }</title>
-	</head>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <title>{title}</title>
+    </head>
 
-	<body>
-		<main>
-			<header>
-				<h1 class="title">
-					<a href="/">{title}</a>
-				</h1>
-			</header>
-			<slot />
-		</main>
-		<footer>
-			<p>❦</p>
-			<p><a href="archivo">Archivo de publicaciones</a></p>
-			<p>
-				{ footerData.map(item => 
-					<a href={item.link}> {item.text} </a>) 	
-				}
-			</p>
-		</footer>
-	</body>
+    <body>
+        <main>
+            <header>
+                <h1 class="title">
+                    <a href="/">{title}</a>
+                </h1>
+            </header>
+            <slot />
+            <button id="toggle-references-button" class="hidden"
+                >Ver referencias</button
+            >
+        </main>
+        <footer>
+            <p>❦</p>
+            <p><a href="archivo">Archivo de publicaciones</a></p>
+            <p>
+                {
+                    footerData.map((item) => (
+                        <a href={item.link}> {item.text} </a>
+                    ))
+                }
+            </p>
+        </footer>
+        <script>
+            document.addEventListener("DOMContentLoaded", () => {
+                const button = document.getElementById(
+                    "toggle-references-button",
+                );
+                const refs = document.getElementById("refs");
+                const citationsExist =
+                    document.querySelector(".citation") !== null;
+
+                if (citationsExist) {
+                    console.log("citations exist!!!");
+                    button.classList.remove("hidden");
+                    // Crear y agregar el elemento h2 como el primer hijo de refs
+                    const header = document.createElement("h2");
+                    header.textContent = "Referencias";
+                    refs.insertBefore(header, refs.firstChild);
+
+                    button.addEventListener("click", () => {
+                        if (refs.classList.contains("showRefs")) {
+                            refs.classList.remove("showRefs");
+                            button.textContent = "Ver referencias";
+                        } else {
+                            refs.classList.add("showRefs");
+                            button.textContent = "Ocultar referencias";
+                        }
+                    });
+                } else {
+                    console.log("citations doesn't exist!!");
+                }
+            });
+        </script>
+    </body>
 </html>

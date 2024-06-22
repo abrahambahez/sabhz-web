@@ -21,6 +21,7 @@
     "rehype-slug": "^5.0.1",
     "rehype-toc": "^3.0.2",
     "remark-code-titles": "^0.1.2",
+    "remark-sidenotes": "github:tzcl/remark-sidenotes",
     "sanitize-html": "^2.11.0"
   }
 }
