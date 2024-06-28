@@ -105,9 +105,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: var(--serif);
-    text-transform: uppercase;
-    line-height: 1;
+    padding-top: 3rem;
 }
 
 iframe {
@@ -127,6 +125,11 @@ hr {
 code {
     font-size: 0.8rem;
     color: var(--accent-color);
+}
+
+.updatedAt {
+    padding-top: 3rem;
+    font-style: italic;
 }
 
 footer {

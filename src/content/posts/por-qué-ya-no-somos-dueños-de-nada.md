@@ -1,7 +1,7 @@
 ---
 title: ¿Por qué cada vez somos más dueños de nada?
 createdAt: 2023-09-29T17:52
-updatedAt: 2023-10-08T23:13
+updatedAt: 2024-06-21T19:16
 ---
 En 1936 Walter Benjamin escribió sobre la reproducción tecnológica de los objetos artísticos, las obras de arte. Argumentaba que su *aquí y ahora*, su autenticidad, su aura, es decir, lo que las hace únicas, quedaba amenazado por la precisa multiplicación técnica [@benjamin2003, § 2-4]. Todo el mundo podía poseer a la Mona Lisa, aunque fuera una réplica sin aura.
 
@@ -9,7 +9,11 @@ Casi cien años después, Byun-Chul Han escribe sobre la desaparición de las co
 
 En la preparatoria tenía una maestra que me dio clases de economía, y solía decir (con la imponente seguridad de su ignorancia) cosas como «con el comunismo tienes que compartir hasta tu lápiz labial, tu casa, tu cama, ¡imagínense!». Estas expresiones reflejan el miedo que la propaganda anti-comunista de la guerra fría buscaba inculcar en los países capitalistas o neutrales. En realidad Marx siempre distinguió entre *propiedad privada* y *propiedad personal*, y no estaba interesado en esta última.
 
-Irónicamente, el capitalismo post-industrial de alta tecnología sí ha estado interesado en desaparecer la propiedad personal, o por lo menos apropiarse de ella en más sentidos de los que cualquier estalinista malvado en siglo XX hubiera imaginado [Los estalinistas eran, de hecho, más conocidos por su falta de imaginación, según  @graeber2019, 22]. Los libros, discos y películas que antes poblaban las salas de muchas casas, apilados en mesas u organizados en muebles específicos para eso, ahora están accesibles para su consumo, no para su posesión, por una suscripción mensual. La cocina es un espacio opcional cuando puedes pedir comida a domicilio las 24 horas. Los objetos que más valoramos, celulares y pantallas, no tienen valor en tanto objetos, puesto que estamos deseosos de reemplazarlos lo más pronto posible, y con ello hacemos de la obsolescencia percibida [@monteromortola2011] algo más rápido y eficaz que la obsolescencia programada.
+Irónicamente, el capitalismo post-industrial de alta tecnología sí ha estado interesado en desaparecer la propiedad personal, o por lo menos apropiarse de ella en más sentidos de los que cualquier estalinista malvado en siglo XX hubiera imaginado [^1]. Los libros, discos y películas que antes poblaban las salas de muchas casas, apilados en mesas u organizados en muebles específicos para eso, ahora están accesibles para su consumo, no para su posesión, por una suscripción mensual. La cocina es un espacio opcional cuando puedes pedir comida a domicilio las 24 horas. Los objetos que más valoramos, celulares y pantallas, no tienen valor en tanto objetos, puesto que estamos deseosos de reemplazarlos lo más pronto posible, y con ello hacemos de la obsolescencia percibida[^2] algo más rápido y eficaz que la obsolescencia programada.
+
+[^1]: Si creemos a David Graeber [-@graeber2019, 22], los estalinistas eran, de hecho, más conocidos por su falta de imaginación.
+
+[^2]: De acuerdo con @monteromortola2011, se trata de una consideración subjetiva que convierte un bien en basura a través de un juicio valorativo en el contexto de la cultura de consumo. Por ejemplo, con la ropa que se compra para usarse sólo una vez, con los celulares o los autos que se cambian cada año aunque estén en perfecto estado, y así con varios tipos de bienes cuya frecuencia de consumo es mucho más frecuente que su vida útil para un mismo individuo.
 
 Las ciudades se quedan sin habitantes permanentes para recibir hordas de «nómadas digitales» a quienes nos les importa establecer relaciones sociales duraderas en un lugar. Estos pobladores flotantes rentan casas «desenraizadas» de su contexto, porque no están hechas para vivir allí 10 años, sino para ofrecer dos semanas de experiencias regionalmente genéricas, y cuyos arrendadores [destruyen la sustancia social de las ciudades](https://theconversation.com/how-airbnb-is-reshaping-our-cities-63932). Los pobladores dejan de ser propietarios de sus casas. Mi maestra reconocería lo que Airbnb quiere hacer: que todo el mundo busque compartir su casa y su cama, aunque en realidad no hay tal *sharing economy*. Si pides una renta no estás compartiendo.
 

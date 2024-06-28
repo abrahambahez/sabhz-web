@@ -1,32 +1,37 @@
 ---
-import { getCollection } from 'astro:content';
-import Main from '../layouts/main.astro';
+import { getCollection } from "astro:content";
+import Main from "../layouts/main.astro";
 
-const posts = await getCollection('posts')
+const posts = await getCollection("posts");
 
-const collator = new Intl.Collator(undefined)
-const sortedPosts = posts.sort((a,b) => collator.compare(a.data.createdAt, b.data.createdAt)).reverse()
+const collator = new Intl.Collator(undefined);
+const sortedPosts = posts
+    .sort((a, b) => collator.compare(a.data.createdAt, b.data.createdAt))
+    .reverse();
 
-function formatDate(str: string){
-	let date = new Date(str);
-	return date.toLocaleString('es-MX',	
-		{ year: 'numeric', month: 'long', day: 'numeric'}
-	)
+function formatDate(str: string) {
+    let date = new Date(str);
+    return date.toLocaleString("es-MX", {
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+    });
 }
 ---
 
-
 <Main title="Archivo">
-
-
-<div>
-	{
-		sortedPosts.map(post => 
-			<p>
-				<span class="dateStyle">{ formatDate(post.data.createdAt) } — </span>
-				<i><a href={post.slug}> {post.data.title} </a></i>
-			</p>)
-	}
-</div>
-
+    <div>
+        {
+            sortedPosts.map((post) => (
+                <p>
+                    <span class="dateStyle">
+                        {formatDate(post.data.createdAt)} —{" "}
+                    </span>
+                    <i>
+                        <a href={post.slug}> {post.data.title} </a>
+                    </i>
+                </p>
+            ))
+        }
+    </div>
 </Main>

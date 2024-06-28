@@ -1,12 +1,18 @@
 ---
 import "/src/styles/global.css";
 import "/src/styles/sidenotes.css";
-const { title } = Astro.props.frontmatter || Astro.props;
-const footerData = [
+const { title, updatedAt } = Astro.props.frontmatter || Astro.props;
+const headerData = [
+    {
+        text: "RSS",
+        link: "rss.xml",
+    },
     {
         text: "Contacto",
         link: "mailto:tacto@sabhz.com",
     },
+];
+const footerData = [
     {
         text: "Ahora",
         link: "ahora",
@@ -15,11 +21,15 @@ const footerData = [
         text: "Lecturas",
         link: "lecturas",
     },
-    {
-        text: "RSS",
-        link: "rss.xml",
-    },
 ];
+function formatDate(str: string) {
+    let date = new Date(str);
+    return date.toLocaleString("es-MX", {
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+    });
+}
 ---
 
 <html lang="es">
@@ -32,14 +42,33 @@ const footerData = [
     <body>
         <main>
             <header>
+                <p>
+                    {
+                        headerData.map((item) => (
+                            <a href={item.link} style="padding-right: 1rem;">
+                                {" "}
+                                {item.text}{" "}
+                            </a>
+                        ))
+                    }
+                </p>
                 <h1 class="title">
                     <a href="/">{title}</a>
                 </h1>
+                <p
+                    class="updatedAt"
+                    style={title == "Archivo"
+                        ? "display:none;"
+                        : "display: block;"}
+                >
+                    Última acutalización el {formatDate(updatedAt)}
+                </p>
             </header>
             <slot />
-            <button id="toggle-references-button" class="hidden"
-                >Ver referencias</button
-            >
+
+            <button id="toggle-references-button" class="hidden">
+                Ver referencias
+            </button>
         </main>
         <footer>
             <p>❦</p>
