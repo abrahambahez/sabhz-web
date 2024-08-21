@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap");
-
 :root {
     --background-color-dark: #111111;
     --background-color-light: #f2f1f1;
@@ -11,8 +9,8 @@
     --soft-text-color-light: #737373;
     --accent-color-light: slateBlue;
     --accent-color-dark: mediumSlateBlue;
-    --serif: "Libre Baskerville", Georgia, "Times New Roman", serif;
-    --sans-serif: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --serif: Georgia, "Times New Roman", serif;
+    --sans-serif: system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
     --text-width: 40em;
 }
 
@@ -66,7 +64,7 @@
 
 body {
     font-family: var(--serif);
-    font-size: clamp(14px, 0.39vw + 12.244px, 22px);
+    font-size: clamp(16px, 0.39vw + 12.244px, 22px);
     line-height: 1.8;
     overflow-wrap: break-word;
     margin-left: auto;
