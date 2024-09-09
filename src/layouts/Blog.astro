@@ -4,22 +4,23 @@ import "/src/styles/sidenotes.css";
 const { title, updatedAt } = Astro.props.frontmatter || Astro.props;
 const headerData = [
     {
+        text: "Inicio",
+        link: "/",
+    },
+    {
+        text: "Archivo de publicaciones",
+        link: "/archivo",
+    }
+];
+
+const footerData = [
+    {
         text: "RSS",
         link: "rss.xml",
     },
     {
         text: "Contacto",
         link: "mailto:tacto@sabhz.com",
-    },
-];
-const footerData = [
-    {
-        text: "Ahora",
-        link: "ahora",
-    },
-    {
-        text: "Lecturas",
-        link: "lecturas",
     },
 ];
 function formatDate(str: string) {
@@ -53,7 +54,7 @@ function formatDate(str: string) {
                     }
                 </p>
                 <h1 class="title">
-                    <a href="/">{title}</a>
+                    <a href="/blog">{title}</a>
                 </h1>
                 <p
                     class="updatedAt"

@@ -24,6 +24,7 @@
 
     a {
         color: var(--accent-color-dark);
+        text-decoration: underline;
     }
 
     .citation {
@@ -38,6 +39,12 @@
         font-family: var(--serif);
         cursor: pointer;
     }
+    h1 {
+        background: linear-gradient(to right, #ffffff, #444444);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
 }
 
 @media (prefers-color-scheme: light) {
@@ -48,6 +55,7 @@
 
     a {
         color: var(--accent-color-light);
+        text-decoration: underline;
     }
 
     .citation {
@@ -62,11 +70,17 @@
         font-family: var(--serif);
         cursor: pointer;
     }
+    h1 {
+        background: linear-gradient(to right, #111111, #bbbbbb);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
 }
 
 body {
     font-family: var(--serif);
-    font-size: clamp(16px, 0.39vw + 12.244px, 20px);
+    font-size: clamp(17px, calc(0.25vw + 15px), 20px);
     line-height: 1.8;
     overflow-wrap: break-word;
     margin-left: auto;
@@ -74,7 +88,7 @@ body {
     padding-top: 0;
     padding-bottom: 0;
     padding-right: 0;
-    padding-left: 12.5%;
+    padding-left: clamp(1em, 10vw, 12.5%);
 }
 
 @media (max-width: 800px) {
@@ -140,8 +154,8 @@ footer {
 
 footer > p {
     display: flex;
-    justify-content: space-around;
-    padding-right: 2rem;
+    justify-content: flex-start;
+    gap: 1rem;
 }
 
 .dateStyle {

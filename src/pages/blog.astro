@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-
+import Blog from "../layouts/Blog.astro";
 const posts = await getCollection('posts'); // Get posts
 
 const collator = new Intl.Collator(undefined) // Sort entries
@@ -11,6 +11,7 @@ const sortedPosts = posts.sort((a,b) => collator.compare(a.data.createdAt, b.dat
 const { Content } = await sortedPosts[0].render();
 
 ---
-
-<Content />
+<Blog title={sortedPosts[0].data.title} updatedAt={sortedPosts[0].data.updatedAt}>
+    <Content />
+</Blog>
 

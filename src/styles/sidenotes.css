@@ -13,7 +13,7 @@ img {
     float: right;
     clear: right;
     margin-right: -60%;
-    width: 50%;
+    width: clamp(40%, 50%, 60%);
     margin-top: 0.3rem;
     margin-bottom: 0;
     font-size: 0.8rem;
@@ -71,7 +71,7 @@ label.margin-toggle:not(.sidenote-number) {
     display: none;
 }
 
-@media (max-width: 1050px) {
+@media (max-width: 1300px) {
     label.margin-toggle:not(.sidenote-number) {
         display: inline;
     }
@@ -89,7 +89,7 @@ label.margin-toggle:not(.sidenote-number) {
         clear: both;
         width: 95%;
         margin: 1rem 2.5%;
-        vertical-align: baseline;
+        /* vertical-align: baseline; */
         position: relative;
     }
 

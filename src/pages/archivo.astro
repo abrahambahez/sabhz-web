@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import Main from "../layouts/main.astro";
+import Blog from "../layouts/Blog.astro";
 
 const posts = await getCollection("posts");
 
@@ -19,7 +19,7 @@ function formatDate(str: string) {
 }
 ---
 
-<Main title="Archivo">
+<Blog title="Archivo">
     <div>
         {
             sortedPosts.map((post) => (
@@ -34,4 +34,4 @@ function formatDate(str: string) {
             ))
         }
     </div>
-</Main>
+</Blog>
