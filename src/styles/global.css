@@ -40,7 +40,7 @@
         cursor: pointer;
     }
     h1 {
-        background: linear-gradient(to right, #ffffff, #444444);
+        background: linear-gradient(45deg, #ffffff, #444444);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         background-clip: text;
@@ -71,7 +71,7 @@
         cursor: pointer;
     }
     h1 {
-        background: linear-gradient(to right, #111111, #bbbbbb);
+        background: linear-gradient(45deg, #111111, #bbbbbb);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         background-clip: text;
