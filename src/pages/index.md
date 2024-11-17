@@ -14,6 +14,4 @@ Además de antropolgoía de la tecnología, he trabajado con antropología polí
 
 Actualmente, me interesa explorar cómo la tecnología puede escalar el impacto de la cooperación humana no jerárquica, en el contexto histórico y político actual.
 
-
 <!--Proyectos, intereses-->
-
