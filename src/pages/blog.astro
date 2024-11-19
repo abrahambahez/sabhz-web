@@ -1,17 +1,20 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection } from "astro:content";
 import Blog from "../layouts/Blog.astro";
-const posts = await getCollection('posts'); // Get posts
+const posts = await getCollection("blog"); // Get posts
 
-const collator = new Intl.Collator(undefined) // Sort entries
-const sortedPosts = posts.sort((a,b) => collator.compare(a.data.createdAt, b.data.createdAt)).reverse()
-
+const collator = new Intl.Collator(undefined); // Sort entries
+const sortedPosts = posts
+    .sort((a, b) => collator.compare(a.data.createdAt, b.data.createdAt))
+    .reverse();
 
 // const { entry } = Astro.props;
 const { Content } = await sortedPosts[0].render();
-
 ---
-<Blog title={sortedPosts[0].data.title} updatedAt={sortedPosts[0].data.updatedAt}>
+
+<Blog
+    title={sortedPosts[0].data.title}
+    updatedAt={sortedPosts[0].data.updatedAt}
+>
     <Content />
 </Blog>
-
