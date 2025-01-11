@@ -1,6 +1,6 @@
 ---
 createdAt: 2025-01-06T07:38
-updatedAt: 2025-01-06T10:43
+updatedAt: 2025-01-11T12:37
 title: ¿Ahora qué? Termino el doctorado, me quedo sin trabajo, intento un nuevo plan
 ---
 
