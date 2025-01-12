@@ -1,6 +1,6 @@
 ---
 createdAt: 2025-01-09T07:28
-updatedAt: 2025-01-12T08:14
+updatedAt: 2025-01-12T08:17
 title: Prototipar Utopías
 ---
 En la [publicación anterior](plan-2025) expuse las razones que dan contexto a esta. Ahora lo que quiero es esbozar un plan; espero que dentro de cinco años de como resultado proyectos interesantes. Hay tres tipos de problemas que me interesan: *el trabajo, el conocimiento social y el cuidado*. No voy a elaborarlos aquí y ahora. Solo diré que la forma en que pensamos en esas prácticas influye mucho cómo las vivimos, y mucho más cómo imaginamos que serían mejores.
@@ -25,9 +25,9 @@ Veamos como podríamos definir los principios para cada problema.
 
 1. Contribuir a facilitar la [organización cooperativa del trabajo](https://es.wikipedia.org/wiki/Cooperativa_de_trabajo_asociado) (desprivatización de la producción)
 2. Maximizar los [bienes comunes](https://es.wikipedia.org/wiki/Bien_comunal) (*commons*), es decir, desmercantilización
-3. Promover alternativas de subsistencia que no dependan del ingreso monetario, particularmente bajo el régimen del salario
+3. Promover alternativas de subsistencia que no dependan del ingreso monetario, particularmente bajo el régimen del salario[^1]
 
-Vale la pena comentar ejemplos del punto tres. Escalar tácticas de acción directa relacionadas con la subsistencia, como en el movimiento [*food not bombs*](https://en.wikipedia.org/wiki/Food_Not_Bombs) o en la práctica de la [hospitalidad radical](https://www.youtube.com/watch?v=9n9JRw6nyLU). Por extensión, apoyar toda iniciativa orientada a garantizar la independencia entre subsistencia y salario, como la política de una [renta básica universal](https://es.wikipedia.org/wiki/Renta_básica_universal) [@graeber2020, 253].
+[^1]: Ejemplos como escalar tácticas de acción directa relacionadas con la subsistencia, como en el movimiento [*food not bombs*](https://en.wikipedia.org/wiki/Food_Not_Bombs) o en la práctica de la [hospitalidad radical](https://www.youtube.com/watch?v=9n9JRw6nyLU). Por extensión, apoyar toda iniciativa orientada a garantizar la independencia entre subsistencia y salario, como la política de una [renta básica universal](https://es.wikipedia.org/wiki/Renta_básica_universal) [@graeber2020, 253].
 
 ## Conocimiento
 
