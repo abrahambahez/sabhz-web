@@ -1,6 +1,6 @@
 ---
 createdAt: 2025-01-09T07:28
-updatedAt: 2025-01-12T08:17
+updatedAt: 2025-01-12T13:56
 title: Prototipar Utopías
 ---
 En la [publicación anterior](plan-2025) expuse las razones que dan contexto a esta. Ahora lo que quiero es esbozar un plan; espero que dentro de cinco años de como resultado proyectos interesantes. Hay tres tipos de problemas que me interesan: *el trabajo, el conocimiento social y el cuidado*. No voy a elaborarlos aquí y ahora. Solo diré que la forma en que pensamos en esas prácticas influye mucho cómo las vivimos, y mucho más cómo imaginamos que serían mejores.
