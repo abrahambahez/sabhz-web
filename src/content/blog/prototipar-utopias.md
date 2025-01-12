@@ -1,6 +1,6 @@
 ---
 createdAt: 2025-01-09T07:28
-updatedAt: 2025-01-12T08:05
+updatedAt: 2025-01-12T08:14
 title: Prototipar Utopías
 ---
 En la [publicación anterior](plan-2025) expuse las razones que dan contexto a esta. Ahora lo que quiero es esbozar un plan; espero que dentro de cinco años de como resultado proyectos interesantes. Hay tres tipos de problemas que me interesan: *el trabajo, el conocimiento social y el cuidado*. No voy a elaborarlos aquí y ahora. Solo diré que la forma en que pensamos en esas prácticas influye mucho cómo las vivimos, y mucho más cómo imaginamos que serían mejores.
@@ -15,7 +15,7 @@ Además, **los cambios sociales más permanentes son problemas de escala**. Por 
 
 Creo que hay tres principios generales que se pueden aplicar a los problemas:
 
-1. Cambiar el régimen por el que las cosas (o privilegios) están bajo el control de una minoría
+1. Cambiar el régimen por el que las cosas están bajo el control de una minoría; o bien, el régimen por el que la opresión cae sobre un grupo particular
 2. Maximizar la organización colectiva
 3. Crear alternativas a los regímenes actuales
 
@@ -37,6 +37,6 @@ Vale la pena comentar ejemplos del punto tres. Escalar tácticas de acción dire
 
 ## Cuidado
 
-- Contribuir a la separación del cuidado del ámbito íntimo-privado, y de su [generización](https://atheneadigital.net/article/view/v16-n3-escribano/1875-pdf-es) [@prieto&al2016]
-- Contribuir a la creación de estructuras para la organización colectiva del cuidado, aprovechando las del trabajo y del conocimiento
-- Contribuir a la creación de tecnologías convivenciales del cuidado (una perspectiva que no ha sido muy explorada hasta donde sé)
+1. Contribuir a la separación del cuidado del ámbito íntimo-privado, y de su [generización](https://atheneadigital.net/article/view/v16-n3-escribano/1875-pdf-es) [@prieto&al2016]
+2. Contribuir a la creación de estructuras para la organización colectiva del cuidado, aprovechando las del trabajo y del conocimiento
+3. Contribuir a la creación de tecnologías convivenciales del cuidado (una perspectiva que no ha sido muy explorada hasta donde sé)
