@@ -1,17 +1,19 @@
 ---
 createdAt: 2025-01-09T07:28
-updatedAt: 2025-01-12T13:56
+updatedAt: 2025-01-12T13:57
 title: Prototipar Utopías
 ---
-En la [publicación anterior](plan-2025) expuse las razones que dan contexto a esta. Ahora lo que quiero es esbozar un plan; espero que dentro de cinco años de como resultado proyectos interesantes. Hay tres tipos de problemas que me interesan: *el trabajo, el conocimiento social y el cuidado*. No voy a elaborarlos aquí y ahora. Solo diré que la forma en que pensamos en esas prácticas influye mucho cómo las vivimos, y mucho más cómo imaginamos que serían mejores.
+Prototipar utopías[^1a] significa usar las metodologías de [pensamiento de diseño](https://es.wikipedia.org/wiki/Pensamiento_de_diseño) y [desarrollo ágil](https://es.wikipedia.org/wiki/Manifiesto_ágil) para el diseño, implementación y escalamiento responsable de herramientas convivenciales. Estas herramientas prefiguran un mundo que ha superado sus problemas críticos, y tomo la noción de convivencialidad [concebida por Ivan @illich1985] como punto de partida:
 
- **Pensar-actuar sobre esos problemas es la mejor manera de transformarlos permanentemente**, porque eso nos dará simultáneamente mejores conceptos y mejores experiencias concretas sobre lo que funciona en determinadas situaciones. Un excelente punto de partida para enmarcar ese pensar-actuar es con la idea de «convivencialidad» definida por Ivan Illich:
+[^1a]: En la [publicación anterior](plan-2025) doy más contexto sobre por qué estoy escribiendo esto.
 
 > Una sociedad convivencial es la que ofrece al hombre la posibilidad de ejercer la acción más autónoma y más creativa, con ayuda de las herramientas menos controlables por los otros. La productividad se conjuga en términos de tener, la convivencialidad en términos de ser. En tanto que el incremento de la instrumentación, pasados los umbrales críticos, produce siempre más uniformación reglamentada, mayor dependencia, explotación e impotencia, el respeto a los límites garantizará un libre florecimiento de la autonomía y de la creatividad humanas. Claramente, yo empleo el término herramienta en el sentido más amplio posible, como instrumento o como medio, independientemente de ser producto de la actividad fabricadora, organizadora o racionalizante del hombre o, como es el caso del sílex prehistórico, simplemente apropiado por la mano del hombre para realizar una tarea específica, es decir, para ser puesto al servicio de una intencionalidad [@illich1985, cap. 2: «La otra posibilidad: una estructura convivencial»].
 
-Además, **los cambios sociales más permanentes son problemas de escala**. Por lo tanto, la escala es algo que debe estar siempre presente en la manera en la que pensamos-actuamos sobre esos problemas. Este es un tema fascinante y complejo, tampoco profundizaré teóricamente hoy en él, pero lo iré aplicando (y explicando) en todo lo que vaya elaborando en el futuro, comenzando con la descripción inicial de los tres problemas.
+Hay tres tipos de problemas que me interesan: *el trabajo, el conocimiento social y el cuidado*. No voy a elaborarlos aquí y ahora. Solo diré que la forma en que pensamos en esas prácticas influye mucho cómo las vivimos, y mucho más cómo imaginamos que serían mejores.
 
-> *Prototipar utopías significa usar las metodologías de [pensamiento de diseño](https://es.wikipedia.org/wiki/Pensamiento_de_diseño) y [desarrollo ágil](https://es.wikipedia.org/wiki/Manifiesto_ágil) para el diseño, implementación y escalamiento de herramientas convivenciales.*
+**Pensar-actuar sobre esos problemas es la mejor manera de transformarlos permanentemente**, porque eso nos dará simultáneamente mejores conceptos y mejores experiencias concretas sobre lo que funciona en determinadas situaciones.
+
+Además, **los cambios sociales más permanentes son problemas de escala**. Por lo tanto, la escala es algo que debe estar siempre presente en la manera en la que pensamos-actuamos sobre esos problemas. Este es un tema fascinante y complejo, tampoco profundizaré teóricamente hoy en él, pero lo iré aplicando (y explicando) en todo lo que vaya elaborando en el futuro, comenzando con la descripción inicial de los tres problemas.
 
 Creo que hay tres principios generales que se pueden aplicar a los problemas:
 
