@@ -1,19 +1,22 @@
 ---
 title: Ahora
 createdAt: 2023-02-01T09:30
-updatedAt: 2024-06-21T18:58
+updatedAt: 2025-01-14T14:54
 ---
 
 ## En la escuela
 
-- Estoy escribiendo el *cuarto* borrador de mi tesis doctoral
-- Estoy en la última fase de mi proceso de doctorado en Ciencias antropológicas.
+Estoy a punto de terminar el doctorado.
+
 
 ## En el trabajo
 
-- Han sido días duros, cansados y retadores. Pero he aprendido mucho y, hasta donde logro entender, he adquirido una mejor perspectiva de lo que sea que signifique «ganarme la vida».
+Estoy sin empleo y tratando de definir [qué sigue](empezar-de-nuevo).
+
+Por ahora, además de tratar de cumplir mis [metas de 2025](dos-proyectos-2025.md).
 
 ## Personal
 
-- Dada la presión del trabajo y de enfocarme en rehacer el borrador de la tesis, trato de mantenerme lo menos estresado posible. Uso todo lo que tengo a la mano para [optimizar el tiempo](optimizar-el-tiempo)
-- He descuidado mi salud y debo recuperarme del *burnout* de estos últimos tres años.
+Estoy ayudando a mi pareja con su propio proyecto de posgrado, me siento orgulloso y feliz por ella.
+
+Mi perrita ha tenido muchos problemas de salud pero ¡ya está saliendo! estoy pendiente de sus cuidados.

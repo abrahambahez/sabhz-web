@@ -5,7 +5,7 @@ title: Prototipar Utopías
 ---
 Prototipar utopías[^1a] significa usar las metodologías de [pensamiento de diseño](https://es.wikipedia.org/wiki/Pensamiento_de_diseño) y [desarrollo ágil](https://es.wikipedia.org/wiki/Manifiesto_ágil) para el diseño, implementación y escalamiento responsable de herramientas convivenciales. Estas herramientas prefiguran un mundo que ha superado sus problemas críticos, y tomo la noción de convivencialidad [concebida por Ivan @illich1985] como punto de partida:
 
-[^1a]: En la [publicación anterior](plan-2025) doy más contexto sobre por qué estoy escribiendo esto.
+[^1a]: En la [publicación anterior](empezar-de-nuevo.md)o.md) doy más contexto sobre por qué estoy escribiendo esto.
 
 > Una sociedad convivencial es la que ofrece al hombre la posibilidad de ejercer la acción más autónoma y más creativa, con ayuda de las herramientas menos controlables por los otros. La productividad se conjuga en términos de tener, la convivencialidad en términos de ser. En tanto que el incremento de la instrumentación, pasados los umbrales críticos, produce siempre más uniformación reglamentada, mayor dependencia, explotación e impotencia, el respeto a los límites garantizará un libre florecimiento de la autonomía y de la creatividad humanas. Claramente, yo empleo el término herramienta en el sentido más amplio posible, como instrumento o como medio, independientemente de ser producto de la actividad fabricadora, organizadora o racionalizante del hombre o, como es el caso del sílex prehistórico, simplemente apropiado por la mano del hombre para realizar una tarea específica, es decir, para ser puesto al servicio de una intencionalidad [@illich1985, cap. 2: «La otra posibilidad: una estructura convivencial»].
 
@@ -34,7 +34,7 @@ Veamos como podríamos definir los principios para cada problema.
 ## Conocimiento
 
 1. Contribuir a que todo conocimiento esté bajo [*copyleft*](https://www.gnu.org/licenses/copyleft.es.html), en modalidades como [GPL](https://es.wikipedia.org/wiki/GNU_General_Public_License), es decir, cuidando especialmente el principio de [*share alike*](https://es.wikipedia.org/wiki/Licencias_Creative_Commons#Condiciones)
-2. Optimizar y proponer modelos alternativos al derecho de autor para el financiamiento del trabajo intelectual, como el [financiamiento colectivo](https://es.wikipedia.org/wiki/Micromecenazgo)
+2. Contribuir a la optimización y expansión de autonomía humana mediante el conocimiento social (contra el monopolio de los especialistas)
 3. Contribuir a la creación de nuevas estructuras para adquirir y validar el aprendizaje (desescolarización) y producir y validar el conocimiento (anti-academización)
 
 ## Cuidado

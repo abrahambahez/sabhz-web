@@ -1,7 +1,7 @@
 ---
 createdAt: 2025-01-06T07:38
 updatedAt: 2025-01-12T13:58
-title: ¿Ahora qué?
+title: Empezar de nuevo en 2025
 ---
 
 Acabo de terminar la cuarta reescritura de mi tesis doctoral. Sería difícil para mí, y no muy interesante para ti, tratar de expresar lo tortuoso y a la vez constructivo que fue el proceso. La escritura académica tiene mucho de práctica artesanal, aunque cada vez menos, gracias al feudalismo gerencial que ahora domina las universidades[^202501060745]. Hay momentos donde el tiempo se para, mientras tratas de escribir una oración que sintetiza varios libros, cuidando no tergiversar el sentido y contexto de los argumentos, revisando que la cita refiera correctamente al lugar que quieres. Lees lo que acabas de escribir y no tiene sentido, así que lo reescribes. Y cuando te das cuenta, no has comido en todo el día, afuera es de noche, la gente celebra una posada, y todavía te falta revisar tres capítulos más.
