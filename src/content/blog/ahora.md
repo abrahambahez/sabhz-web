@@ -8,7 +8,6 @@ updatedAt: 2025-01-14T14:54
 
 Estoy a punto de terminar el doctorado.
 
-
 ## En el trabajo
 
 Estoy sin empleo y tratando de definir [qué sigue](empezar-de-nuevo).
