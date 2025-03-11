@@ -4,7 +4,7 @@ title: "S. Abraham Barrera Hernández"
 updatedAt: "2025-03-10"
 ---
 
-<img src="/src/content/sabhz.png" width="200" style="margin-top:12.5vh; padding:0;">
+<img src="/sabhz200.png" alt="Perfil" style="margin-top:12.5vh;">
 
 <h1 style="margin-top:0;">S. Abraham Barrera Hernández</h1>
 
