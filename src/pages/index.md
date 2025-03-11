@@ -2,17 +2,9 @@
 layout: ../layouts/Home.astro
 title: "S. Abraham Barrera Hernández"
 updatedAt: "2025-03-10"
-setup: |
-    import { Picture } from "astro-imagetools/components";
 ---
 
-
-<Image
-	src="/src/pages/sabhz.png"
-	width="200"
-	style="margin-top:12.5vh; padding:0;"
-	alt="Profile pic"
-/>
+<img src="/src/content/sabhz.png" width="200" style="margin-top:12.5vh; padding:0;">
 
 <h1 style="margin-top:0;">S. Abraham Barrera Hernández</h1>
 
