@@ -1,19 +1,25 @@
 ---
 layout: ../layouts/Home.astro
 title: "S. Abraham Barrera Hernández"
-updatedAt: "2024-07-28"
+updatedAt: "2025-03-10"
 ---
 
 # S. Abraham Barrera Hernández
+Generalista en tecnologías web con una perspectiva [sociotécnica](https://scholar.lib.vt.edu/ejournals/SPT/v4n3/pdf/ROPOHL.PDF). Doctor en Ciencias Antropológicas ([UADY](https://antropologia.uady.mx/antro-oferta-educativa/doctorado-ciencias-antropologicas) 2025). Licenciado en Comunicación con especialidad en investigación ([UNAM](https://oferta.unam.mx/comunicacion.html) 2018).
 
-Soy antropólogo, comunicólogo y generalista en tecnologías web con un fuerte énfasis en combinar investigación y acción. Tengo más de siete años de experiencia como *Product Manager* en el desarrollo de aplicaciones web basadas en datos sociales. Estoy concluyendo un [doctorado en Ciencias Antropológicas](https://antropologia.uady.mx/antro-oferta-educativa/doctorado-ciencias-antropologicas) en la Universidad de Yucatán, México.
+Combino investigación transdisciplinaria con metodologías ágiles y pensamiento de diseño para resolver problemas complejos usando tecnologías web. He contribuido a la alineación, definición e implementación de 20+ aplicaciones web para análisis de datos sociales durante 7+ años como *Product Manager*.
 
-Mi enfoque principal son las tecnologías web como práctica y como herramienta sociocultural. Aprendí a programar aplicaciones web con Javascript, CSS y HTML; también análisis de datos con Python, y, recientemente, los principios básicos de trabajo con grandes modelos de lenguaje, como *prompt engineering* y *RAG*. También aprendí herramientas de prototipado, sistemas de diseño, investigación centrada en usabilidad y experiencia de usuario. Por supuesto, no soy ni ingeniero de *software* ni diseñador, por eso defino mi actividad como la de un generalista.
+Creo que **la tecnología debe contribuir a maximizar la autonomía humana**. Por eso, además del enfoque en la tecnología, he trabajado con antropología política, estudios culturales y filosofía ([pluralismo epistemológico](https://en.wikipedia.org/wiki/Epistemological_pluralism)).
 
-Además de antropología de la tecnología, he trabajado con antropología política y estudios culturales. Creo que este *stack* de conocimientos me permite pensar de forma más integral en problemas complejos.
+Actualmente, mi interés principal es experimentar con la idea de [*prototipar utopías*](prototipar-utopias), desde la investigación académica independiente y la práctica.
 
-Actualmente, mi interés principal es la idea de [*prototipar utopías*](prototipar-utopias).
+## Enlaces
 
-También tengo un [canal de Youtube](https://www.youtube.com/@abrahambahez) donde intento construir una comunidad de aprendizaje y gestión del conocimiento.
+* Qué estoy haciendo [ahora](ahora)
+* [Youtube](https://www.youtube.com/@abrahambahez)
+* [LinkedIn](https://www.linkedin.com/in/sergio-barrera-1b9110323/)
+* [GitHub](https://github.com/abrahambahez)
+* ✉️ [Contáctame](mailto:tacto@sabhz.com)
+* ☕ [Cómprame un café](https://buymeacoffee.com/sabhz)
 
 <!--Proyectos, intereses-->

@@ -1,21 +1,12 @@
 ---
 title: Ahora
 createdAt: 2023-02-01T09:30
-updatedAt: 2025-01-14T14:54
+updatedAt: 2025-03-10T15:00
 ---
 
-## En la escuela
+Estoy enfocado en avanzar con [mis proyectos iniciales de 2025](dos-proyectos-2025), particularmente el colectivo inicial de trabajo.
 
-Estoy a punto de terminar el doctorado.
+El 7/marzo/2025 hice mi defensa de tesis doctoral, con resultados satisfactorios, así que he cumplido. Tengo el grado.
 
-## En el trabajo
+He estado trabajando en mi cuerpo, entrenando boxeo. Estoy muy motivado, comencé a escribir algo al respecto, espero publicarlo pronto.
 
-Estoy sin empleo y tratando de definir [qué sigue](empezar-de-nuevo).
-
-Por ahora, además de tratar de cumplir mis [metas de 2025](dos-proyectos-2025.md).
-
-## Personal
-
-Estoy ayudando a mi pareja con su propio proyecto de posgrado, me siento orgulloso y feliz por ella.
-
-Mi perrita ha tenido muchos problemas de salud pero ¡ya está saliendo! estoy pendiente de sus cuidados.
