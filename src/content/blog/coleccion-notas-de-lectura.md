@@ -5,7 +5,7 @@ updatedAt: "2025-03-12T18:11"
 ---
 
 > [**Nota**]
-> Esta publicación acompaña un video de Youtube. Si encuentras un enlace caído, puedes dejar un comentario allí, o escribirme a tacto@sabhz.com
+> Esta publicación acompaña un video de [Youtube](https://youtu.be/L9VW7JkXA6U). Si encuentras un enlace caído, puedes dejar un comentario allí, o escribirme a tacto@sabhz.com
 >
 >**ANTES DE COMENZAR**
 >
