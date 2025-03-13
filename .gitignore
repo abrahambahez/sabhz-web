@@ -24,4 +24,5 @@ pnpm-debug.log*
 .obsidian/
 .obsidian*
 .zk*
+blog/.zk*
 src/content/blog/tmp/*
