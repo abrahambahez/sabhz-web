@@ -8,7 +8,14 @@ export default defineConfig({
   site: "https://sabhz.com",
   // Enable Custom Markdown options, plugins, etc.
   markdown: {
-    remarkPlugins: ["remark-code-titles", sidenotes],
+    remarkPlugins: [
+      "remark-code-titles",
+      sidenotes,
+      [
+        'remark-toc',
+        { heading: 'Contenido' }
+      ]
+    ],
     rehypePlugins: [
       "rehype-slug",
       [addClasses, { "h1,h2,h3": "title" }],
