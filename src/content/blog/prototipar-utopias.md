@@ -2,9 +2,11 @@
 createdAt: 2025-01-09T07:28
 updatedAt: 2025-01-12T13:57
 title: Prototipar Utopías
+tags:
+  - Publicacion
+lang: es
 ---
 Prototipar utopías[^1a] significa usar las metodologías de [pensamiento de diseño](https://es.wikipedia.org/wiki/Pensamiento_de_diseño) (creación) y [desarrollo ágil](https://es.wikipedia.org/wiki/Manifiesto_ágil) (gestión) para el diseño, implementación y escalamiento responsable de tecnologías convivenciales. Otra forma, más simple, de verlo, es pensando la relación entre prototipos y utopías como la relación entre medios (la filosofía de prototipar) y fines (un estado ideal de lo social).
-
 
 ## Tecnologías convivenciales
 

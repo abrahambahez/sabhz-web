@@ -2,8 +2,11 @@
 title: Happycracia, de Eva Illouz y Edgar Cabanas
 createdAt: 2023-09-04T16:43
 updatedAt: 2023-10-08T23:11
+tags:
+  - Publicacion
+lang: es
 ---
-Colección: [lecturas](lecturas.md)
+Colección: [lecturas](lecturas)
 
 ![happycracia-eva-illouz-edgar-cabanas](./happycracia-eva-illouz-edgar-cabanas.jpg)
 
@@ -39,7 +42,7 @@ De los últimos capítulos destaco una serie de proposiciones encadenadas que lo
 - Ser feliz te lleva a ser más ganador en la vida
 - Ser feliz es tener la buena vida
 - Ser feliz es ser moralmente buena persona
-- Ser feliz es lo normal 
+- Ser feliz es lo normal
 - Ser feliz es ser el objetivo de la vida
 
 Por lo tanto, según sus defensores, la positividad es inherentemente buena, universal y empíricamente medible. Pero como afirman los autores del libro: la felicidad hoy en día es una obsesión y un regalo envenenado, que nos orilla a rendirle culto. ¿Todavía no ves el peligro de esto? ¿Cómo es que, a partir de una «ciencia descriptiva» se llegan a resultados *prescriptivos* que nos dicen cómo debemos sentirnos, qué es lo bueno y lo malo? Considera las afirmaciones opuestas:

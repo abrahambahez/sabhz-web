@@ -2,6 +2,9 @@
 title: Sobre la repulsión y el abrazo a la tecnología
 createdAt: "2024-11-06T18:36:00"
 updatedAt: "2024-11-06T22:00:00"
+tags:
+  - Publicacion
+lang: es
 ---
 
 La actitud de las personas, especialistas o escuelas sobre la tecnología (en su sentido más general o popular) puede ubicarse en dos polos. En un extremo están quienes la repelen, rechazan o critican como algo pernicioso; en el otro, quienes la abrazan, aceptan o integran a su visión del mundo como algo deseable, o cuando menos, inevitable. Por supuesto, cada posición concreta de estas personas o escuelas de pensamiento cobra matices particulares.

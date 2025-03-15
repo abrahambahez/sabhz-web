@@ -2,9 +2,12 @@
 title: Credo
 createdAt: 2023-01-24T08:22
 updatedAt: 2024-06-21T17:27
+tags:
+  - Publicacion
+lang: es
 ---
 
-El blogger Buster Benson popularizó la idea del [*Codex vitae*](https://buster.wiki/beliefs/), un archivo, publicación o documento donde uno pone una lista con sus creencias y una breve descripción sobre ellas. El CEO de Medium, Tony Stubblebine, le dio más eco en una de sus publicaciones para [BetterHumans Pub](https://betterhumans.pub/codex-vitae-635f97552092). 
+El blogger Buster Benson popularizó la idea del [*Codex vitae*](https://buster.wiki/beliefs/), un archivo, publicación o documento donde uno pone una lista con sus creencias y una breve descripción sobre ellas. El CEO de Medium, Tony Stubblebine, le dio más eco en una de sus publicaciones para [BetterHumans Pub](https://betterhumans.pub/codex-vitae-635f97552092).
 
 Buscando un poco, uno puede encontrar muchos blogs que refieren, o se autonombran, *Codex Vitae*[^1], que se traduce comúnmente *libro de la vida*, haciendo referencia a que es un repositorio donde uno pone su filosofía particular. La idea es listar tus creencias en el mismo lugar, como un ejercicio de autoreflexión, casi terapéutico para la identidad personal. A mí no me interesa tanto entenderme como individuo, sino que me interesa como ejercicio de *reflexividad epistemológica*, es decir, como un modo de evaluar y confrontar mis creencias como productos de una historia social.
 

@@ -2,8 +2,11 @@
 title: Terminar un doctorado en antropología con un trabajo de tiempo completo
 createdAt: 2024-05-31T18:14
 updatedAt: 2024-06-28T12:12
+tags:
+  - Publicacion
+lang: es
 ---
-Hace un mes presenté los avances iniciales de mi cuarto borrador de la tesis en un coloquio de la Facultad de Ciencias Antropológicas, junto a mis compañeros de generación. El tercer borrador tenía 362 páginas; la revisión actual podría quitarle cien. A veces no puedo creer que he tenido que «reescribir» cuatro veces este texto… pienso que, tal vez no he aprendido bien a escribir etnografía, o no he recibido suficiente guía, o es parte de un largo y tortuoso ritual de la academia. 
+Hace un mes presenté los avances iniciales de mi cuarto borrador de la tesis en un coloquio de la Facultad de Ciencias Antropológicas, junto a mis compañeros de generación. El tercer borrador tenía 362 páginas; la revisión actual podría quitarle cien. A veces no puedo creer que he tenido que «reescribir» cuatro veces este texto… pienso que, tal vez no he aprendido bien a escribir etnografía, o no he recibido suficiente guía, o es parte de un largo y tortuoso ritual de la academia.
 
 No sé cómo sentirme al respecto. Cuando escribí mi estrategia para [optimizar el tiempo](optimizar-el-tiempo) dije que quería llevar esto a sus últimas, pero sanas, consecuencias. Por supuesto, no hay una línea clara sobre la cual basarme para decidir qué es sano. Lo cierto es que tengo más de un año sintiendo un intenso *burnout*. No puedo contar ya la cantidad de veces que he querido abandonar el grado. Y, francamente, la academia ha dejado de interesarme. Conseguir el título se ha vuelto más un trámite que una meta.
 
@@ -17,7 +20,7 @@ Escribo esto para comenzar a pensar en mi cierre. Las siguientes son algunas cos
 
 Nada de esto es un gran descubrimiento, ni tampoco algo que pueda aplicarse a todas las experiencias académicas, pero lo escribo igual porque confirmó mis temores y porque todas las personas cercanas a mí están hartas de mis quejas al respecto.
 
-1. La academia en México funciona como una estructura jerárquica de reproducción de poder, medido en términos de prestigio. 
+1. La academia en México funciona como una estructura jerárquica de reproducción de poder, medido en términos de prestigio.
 	1. No es un lugar de generación de conocimiento, sino uno para acceder y reproducir a la élite intelectual regional y nacional[^3].
 2. Los académicos más peligrosos son aquellos convencidos que su puesto puede hacer una diferencia en el mundo, pero en realidad, lo que hacen es convertir su prestigio en poder y dinero.
 3. La academia en México depende del Estado, y tiende, cada vez más, a no criticar la legitimidad de su existencia, sino a criticar su forma concreta, y si se atreve a proponer un cambio, es de naturaleza reformista.

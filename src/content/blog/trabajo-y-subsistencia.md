@@ -2,6 +2,9 @@
 createdAt: 2025-03-11T16:42
 updatedAt: 2025-03-11T16:42
 title: Trabajo y subsistencia
+tags:
+  - Publicacion
+lang: es
 ---
 
 Desde inicios de 2025 estoy desempleado, y me pregunto: ¿qué pasa si no quiero buscar empleo?, ¿para qué lo necesito?, ¿tengo alternativa? Las preguntas podrían sonar extrañas. Las respuestas a esas preguntas parecerían ser obvias: sin empleo no tendrás dinero, sin dinero no podrás acceder a las cosas necesarias para vivir, si quieres alternativas al empleo puedes invertir, emprender, ganar la lotería, buscar una herencia, delinquir (es decir, ocuparte en cualquier actividad ilegal cuyo propósito sea obtener dinero).
@@ -43,4 +46,3 @@ Existen muchos problemas con el hecho de que todo esté en un mercado. El más i
 Los abolicionistas del trabajo como Bob Black [-@black1991] argumentan que el trabajo asalariado es la principal fuente de sufrimiento humano; algo que también sería apoyado, al menos parcialmente, por los estudios de psicopatología del trabajo [@dejours2015 parte 1; también desde la filosofía continental, @han2022]. Es muy posible que un porcentaje significativo de los trabajos asalariados sean, de hecho, completamente innecesarios [@graeber2020, 7-10].
 
 En las sociedades donde las personas no mueren de hambre o se quedan sin techo al no tener trabajo, la desigualdad económica es mucho menos opresiva. Uno tiene más capacidad de ejercer su autonomía, de resistir la arbitrariedad de los más ricos. Por lo tanto, esta es mi pregunta: ¿cómo aumentamos la autonomía de las personas por la vía de su subsistencia? La pregunta implica a su vez la de ¿cómo disminuimos nuestra dependencia del salario para la subsistencia? Iré explorando diversas alternativas en las siguientes publicaciones.
-

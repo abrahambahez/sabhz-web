@@ -2,30 +2,54 @@
 import { getCollection } from "astro:content";
 import Blog from "../layouts/Blog.astro";
 
-const posts = await getCollection("blog");
+const posts = await getCollection("blog", ({ data }) =>
+    data.tags.includes("Publicacion"),
+);
 
+const collections = await getCollection("blog", ({ data }) =>
+    data.tags.includes("Coleccion"),
+);
 const collator = new Intl.Collator(undefined);
-const sortedPosts = posts
-    .sort((a, b) => collator.compare(a.data.createdAt, b.data.createdAt))
-    .reverse();
+
+function sortPosts(posts: Array<any>) {
+    return posts
+        .sort((a, b) => collator.compare(a.data.createdAt, b.data.createdAt))
+        .reverse();
+}
 
 function formatDate(str: string) {
     let date = new Date(str);
     return date.toLocaleString("es-MX", {
         year: "numeric",
-        month: "long",
-        day: "numeric",
+        month: "short",
+        day: "2-digit",
     });
 }
 ---
 
 <Blog title="Archivo">
+    <h2>Colecciones</h2>
     <div>
         {
-            sortedPosts.map((post) => (
+            sortPosts(collections).map((post) => (
                 <p>
                     <span class="dateStyle">
-                        {formatDate(post.data.createdAt)} —{" "}
+                        {formatDate(post.data.createdAt)} ·
+                    </span>
+                    <i>
+                        <a href={post.slug}> {post.data.title} </a>
+                    </i>
+                </p>
+            ))
+        }
+    </div>
+    <h2>Publicaciones</h2>
+    <div>
+        {
+            sortPosts(posts).map((post) => (
+                <p>
+                    <span class="dateStyle">
+                        {formatDate(post.data.createdAt)} ·
                     </span>
                     <i>
                         <a href={post.slug}> {post.data.title} </a>

@@ -2,9 +2,13 @@
 title: "§  El problema del trabajo"
 createdAt: "2025-03-11T15:44"
 updatedAt: "2025-03-11T15:44"
+tags:
+  - Coleccion
+lang: es
 ---
 
 1. [Trabajo y subsistencia](trabajo-y-subsistencia)
+    - 1.1. Subsistencia y marginalidad [ver @adlerlomnitz1998, 16-17]
 2. Trabajo e independencia
 3. Trabajo y opulencia
 
@@ -34,4 +38,3 @@ Por extensión, apoyar toda iniciativa orientada a garantizar la independiencia 
 Me gustaría vivir en un mundo donde
 
 Mi interés particular está en pensar cómo un enfoque sociotecnológico podría escalar esas estrategias, volverlas fácilmente aprendibles y replicables, incluso facilitar su forma espontánea.
-

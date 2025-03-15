@@ -2,6 +2,9 @@
 title: Dos proyectos para 2025
 createdAt: 2025-01-14T14:54
 updatedAt: 2025-01-14T14:30
+tags:
+  - Publicacion
+lang: es
 ---
 
 Ya escribí un poco sobre mi [contexto actual](empezar-de-nuevo). Ya planteé las bases de un programa de trabajo que me llenaría en lo personal, con la idea de [*prototipar utopías*](prototipar-utopias). En el corto plazo, y hasta donde mis necesidades financieras y trabajo futuro me permitan, trataré de cumplir con ese programa de trabajo a través de dos proyectos:

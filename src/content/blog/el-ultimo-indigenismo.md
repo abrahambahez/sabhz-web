@@ -2,10 +2,13 @@
 title: El último indigenismo
 createdAt: 2024-06-11T09:19
 updatedAt: 2025-01-06T07:38
+tags:
+  - Publicacion
+lang: es
 ---
 
 > *Nota: Este es mi último ensayo escrito para el doctorado. Lo publico tal cual lo entregué por varias razones: no tengo tiempo de editarlo como se debe, creo que es interesante aunque hable de un tema estrictamente antropológico, no tengo dónde más ponerlo, etcétera.*
-> 
+>
 >  Escribo aquí lo que me hubiera gustado conversar con mis compañeras, compañeros y profesora, particularmente sobre el problema del Estado y la necesidad de que la antropología cree una «sana distancia» con él. Tomo como punto de partida el sacudimiento del zapatismo para explorar las diversas reacciones indigenistas y estatalistas. Posteriormente, argumento sobre la imposibilidad del Estado para amparar una sociedad respetuosa de los intereses de sus miembros. Concluyo proponiendo una antropología crítica y distanciada del Estado, que pueda ser útil para pensar otras formas de organización política y económica.
 
 ## De las grietas del concreto nacieron las flores: el zapatismo como sacudida
@@ -38,7 +41,7 @@ Hoy en día, casi a veinte años de aquella tarde rodeada de olor a incienso, su
 
 Antes del zapatismo, lo que pasaba con los indígenas era un asunto del Estado, porque era el Estado quien necesitaba hacer algo con ellos para instaurarse como estructura política en lo que hoy se llama México. Para poder continuar debo plantear dos definiciones, qué es lo indígena y qué es el indigenismo. La palabra indígena es principalmente usada por personas que no se identifican a sí mismas como tales. Es una palabra que usa alguien para señalar a otro, se trata de una *identidad impuesta* [@lopezreyes2020], pero más allá de una identidad, ha operado siempre como una categoría política [@aguilargil2023], una forma de ejercer el poder. Esto ya había sido planteado por antropólogos como Guillermo Bonfil Batalla, quien propone usarla para identificar una situación colonial que refleja una relación de dominación.
 
-> La categoría indio o indígena es una categoría analítica que nos permite entender la posición que ocupa el sector de la población así designado dentro del sistema social mayor del que forma parte: define al grupo sometido a una relación de dominio colonial y, en consecuencia, es una categoría capaz de dar cuenta de un proceso (el proceso colonial) y no sólo de una situación estática. Al comprender al indio como colonizado, lo aprehendemos como un fenómeno histórico, cuyo origen y persistencia están determinados por la emergencia y continuidad de un orden colonial. En consecuencia, la categoría indio implica necesariamente su opuesta: la de colonizador [@bonfilbatalla1977, 30]. 
+> La categoría indio o indígena es una categoría analítica que nos permite entender la posición que ocupa el sector de la población así designado dentro del sistema social mayor del que forma parte: define al grupo sometido a una relación de dominio colonial y, en consecuencia, es una categoría capaz de dar cuenta de un proceso (el proceso colonial) y no sólo de una situación estática. Al comprender al indio como colonizado, lo aprehendemos como un fenómeno histórico, cuyo origen y persistencia están determinados por la emergencia y continuidad de un orden colonial. En consecuencia, la categoría indio implica necesariamente su opuesta: la de colonizador [@bonfilbatalla1977, 30].
 
 Por otra parte, el indigenismo es la mirada no indígena sobre las personas que son categorizadas como indígenas. Todo aquello que defina, explique o analice a los grupos sociales nombrados «indígenas» desde una mirada externa, no como miembro de esos grupos, es indigenista. Como analiza @villoro2018, la opinión de personajes como Hernán Cortés o Fray Bernardino de Sahagún sobre los pueblos mesoamericanos es una mirada indigenista. De acuerdo con él, la opinión de los conquistadores y del virreinato conforma el *primer momento indigenista* de la historia de la región mesoamericana. El segundo momento está en el México independiente, que se está formando como nación. El tercero se consolida con la institucionalización revolucionaria encabezada por los antropólogos mexicanos más importantes de su época. El Instituto Nacional Indigenista, fundado en 1948, representa esa institucionalización.
 

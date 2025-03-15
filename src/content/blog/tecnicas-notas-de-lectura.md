@@ -1,7 +1,10 @@
 ---
-title: "Colección de técnicas interesantes para escribir sobre lo que leemos."
+title: "Técnicas interesantes para escribir sobre lo que leemos."
 createdAt: "2025-03-12T18:11"
 updatedAt: "2025-03-12T18:11"
+tags:
+  - Coleccion
+lang: es
 ---
 
 > [**Nota**]
@@ -128,7 +131,7 @@ Ahora revisemos algunas técnicas digitales. En este caso, iré de las más simp
 Casi todas las aplicaciones de lectura digital te permiten hacer tres cosas:
 
 1. Resaltar líneas de texto
-2. Comentar en una página o vista del texto 
+2. Comentar en una página o vista del texto
 3. Crear marcadores, o *bookmarks*
 
 Los consejos sobre cómo subrayar libros físicos se pueden trasladar al subrayado digital.
@@ -183,7 +186,7 @@ Te dejo dos ejemplos en español de lo que puedes hacer con una aplicación de n
 
 ## Técnicas específicas
 
-En este apartado mostraré algunas técnicas más concretas de trabajo. No todas están relacionadas con la lectura exclusivamente. Algunas son más amplias o implican análisis generales sobre temas. 
+En este apartado mostraré algunas técnicas más concretas de trabajo. No todas están relacionadas con la lectura exclusivamente. Algunas son más amplias o implican análisis generales sobre temas.
 
 ### Resumen progresivo de Tiago Forte
 
@@ -196,4 +199,3 @@ La técnica de resumen-progresivo es independiente de cualquier software. Inclus
 5. Reusar el esquema en diferentes elaboraciones o creaciones propias
 
 Si te interesa algo más visual, te dejo un [video en español](https://youtu.be/_83VkWRZRJg) que lo explica.
-

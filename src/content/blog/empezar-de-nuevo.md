@@ -2,6 +2,9 @@
 createdAt: 2025-01-06T07:38
 updatedAt: 2025-01-12T13:58
 title: Empezar de nuevo en 2025
+tags:
+  - Publicacion
+lang: es
 ---
 
 Acabo de terminar la cuarta reescritura de mi tesis doctoral. Sería difícil para mí, y no muy interesante para ti, tratar de expresar lo tortuoso y a la vez constructivo que fue el proceso. La escritura académica tiene mucho de práctica artesanal, aunque cada vez menos, gracias al feudalismo gerencial que ahora domina las universidades[^202501060745]. Hay momentos donde el tiempo se para, mientras tratas de escribir una oración que sintetiza varios libros, cuidando no tergiversar el sentido y contexto de los argumentos, revisando que la cita refiera correctamente al lugar que quieres. Lees lo que acabas de escribir y no tiene sentido, así que lo reescribes. Y cuando te das cuenta, no has comido en todo el día, afuera es de noche, la gente celebra una posada, y todavía te falta revisar tres capítulos más.
@@ -49,7 +52,7 @@ En retrospectiva, aprendí que un proyecto como el que imaginé, lleno de proble
 
 Esta es una discusión clásica en antropología, sobre la distinción de dos momentos que se asumen imposibles de combinar: el trabajo de campo y la escritura de la etnografía; o entre la observación y la participación. Sin entrar en más detalles, se han elaborado nuevas ideas que critican tanto los resultados de entender la investigación de campo siguiendo esa separación, como proponiendo nuevas metodologías para combinarlos.
 
-### Prototipar futuros posibles: pensar con (inter)acciones 
+### Prototipar futuros posibles: pensar con (inter)acciones
 
 La cuestión anterior me lleva a uno de los aprendizajes más recientes de mi vida profesional. Esencialmente, lo que traté de hacer con mi propuesta de *Proyecto Prometeo* es el clásico proceso de cascada: definir un plan detallado para luego ejecutarlo. Ahora sé que la mejor forma de ejecutar acciones concretas combinadas con conocimiento es la que, en desarrollo de software, se conoce como [método ágil](https://es.wikipedia.org/wiki/Manifiesto_ágil). Tampoco entraré en detalles sobre cómo una idea surgida de una práctica profesional se puede adaptar a ideas sociales, creo que es algo obvio cuando entiendes los fundamentos de la propuesta, que, frecuentemente, se asocia también con la metodología de [*pensamiento de diseño*](https://es.wikipedia.org/wiki/Pensamiento_de_diseño).
 

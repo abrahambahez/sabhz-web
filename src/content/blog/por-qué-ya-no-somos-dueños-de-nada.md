@@ -2,6 +2,9 @@
 title: ¿Por qué cada vez somos más dueños de nada?
 createdAt: 2023-09-29T17:52
 updatedAt: 2024-06-21T19:16
+tags:
+  - Publicacion
+lang: es
 ---
 En 1936 Walter Benjamin escribió sobre la reproducción tecnológica de los objetos artísticos, las obras de arte. Argumentaba que su *aquí y ahora*, su autenticidad, su aura, es decir, lo que las hace únicas, quedaba amenazado por la precisa multiplicación técnica [@benjamin2003, § 2-4]. Todo el mundo podía poseer a la Mona Lisa, aunque fuera una réplica sin aura.
 

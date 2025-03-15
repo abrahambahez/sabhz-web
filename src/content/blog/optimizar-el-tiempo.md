@@ -2,6 +2,9 @@
 title: Cómo optimizar el tiempo
 createdAt: 2023-02-05T12:57
 updatedAt: 2023-10-08T23:11
+tags:
+  - Publicacion
+lang: es
 ---
 Estoy en una trampa en la que yo mismo he caído, pero decidí aceptar el reto hasta sus últimas (siempre que sean *sanas*) consecuencias. Tener un trabajo y estudiar de *tiempo completo*, sin descuidar el trabajo doméstico (ya sea en la planificación o en la ejecución) ni la vida social y afectiva, ese es el reto. Preocuparme por optimizar el tiempo «productivo» sin caer en la trampa de la [*cultura de ajetreo*](https://thred.com/es/culture/the-rise-of-anti-hustle-culture/) o la [*autoexplotación*](https://elpais.com/cultura/2018/02/07/actualidad/1517989873_086219.html) parece una idea mal planteada, ¿hay alternativa? ¿no sería mejor renunciar a una cosa? Aunque no descarto esa posibilidad, y no me molesta en absoluto esa opción, quiero explorar la pregunta de si es posible pensar la productividad de modos no alienantes.
 
