@@ -26,10 +26,11 @@ Eventualmente espero ordenar y refleccionar sobre los perfiles y contenido.
 
 - [Fernando Castellano](https://fernandocastellano.com/2025/03/09/sembrar-regar-podar-y-esperar/) - Blog en WordPress estilo clásico
 - [Andrés Bianciotto](https://andresb.net/blog/)
+- [Mane Tatulyan](https://manetatulyan.com/journal/) - Excelente iniciativa profesional. Un enfoque excesivamente eurocéntrico.
 
 ### Substack
 
-- [Gabi Chestrada](https://loqueseaqueinspire.substack.com/), curaduría de cosas interesantes
+- [Gabi Chestrada](https://loqueseaqueinspire.substack.com/), curaduría de cosas interesantes centradas en el diseño.
 
 ### Medium
 
