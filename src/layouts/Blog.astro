@@ -4,16 +4,16 @@ import "/src/styles/sidenotes.css";
 const { title, updatedAt } = Astro.props.frontmatter || Astro.props;
 const headerData = [
     {
-        text: "Inicio",
-        link: "/",
-    },
-    {
         text: "Archivo",
         link: "/archivo",
     },
 ];
 
 const footerData = [
+    {
+        text: "Sobre mí",
+        link: "/sobre-mi",
+    },
     {
         text: "RSS",
         link: "rss.xml",
@@ -54,7 +54,7 @@ function formatDate(str: string) {
                     }
                 </p>
                 <h1 class="title">
-                    <a href="/blog">{title}</a>
+                    <a href="/">{title}</a>
                 </h1>
                 <p
                     class="updatedAt"
@@ -93,18 +93,18 @@ function formatDate(str: string) {
 
                 if (citationsExist) {
                     console.log("citations exist!!!");
-                    button.classList.remove("hidden");
+                    button?.classList.remove("hidden");
                     // Crear y agregar el elemento h2 como el primer hijo de refs
                     const header = document.createElement("h2");
                     header.textContent = "Referencias";
-                    refs.insertBefore(header, refs.firstChild);
+                    if (refs) refs.insertBefore(header, refs.firstChild);
 
-                    button.addEventListener("click", () => {
-                        if (refs.classList.contains("showRefs")) {
+                    button?.addEventListener("click", () => {
+                        if (refs?.classList.contains("showRefs")) {
                             refs.classList.remove("showRefs");
                             button.textContent = "Ver referencias";
                         } else {
-                            refs.classList.add("showRefs");
+                            refs?.classList.add("showRefs");
                             button.textContent = "Ocultar referencias";
                         }
                     });

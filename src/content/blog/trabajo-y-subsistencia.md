@@ -1,7 +1,7 @@
 ---
 createdAt: 2025-03-11T16:42
 updatedAt: 2025-03-11T16:42
-title: Trabajo y subsistencia
+title: La subsistencia sin dinero es menos opresiva
 tags:
   - Publicacion
 lang: es

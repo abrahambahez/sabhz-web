@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import Blog from "../layouts/Blog.astro";
+import Home from "../layouts/Home.astro";
 
 const posts = await getCollection("blog", ({ data }) =>
     data.tags.includes("Publicacion"),
@@ -27,7 +27,7 @@ function formatDate(str: string) {
 }
 ---
 
-<Blog title="Archivo">
+<Home title="Archivo">
     <h2>Colecciones</h2>
     <div>
         {
@@ -58,4 +58,4 @@ function formatDate(str: string) {
             ))
         }
     </div>
-</Blog>
+</Home>
