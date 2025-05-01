@@ -1,13 +1,13 @@
 ---
-title: ¿Deberíamos despreciar o abrazar la tecnología?
+title: ¿Despreciar o abrazar la tecnología?
 createdAt: "2025-04-29T16:54"
-updatedAt: "2025-04-29T16:54"
+updatedAt: "2025-05-01T07:40"
 tags:
   - Publicacion
 lang: es
 ---
 
-La actitud hacia la tecnología, en su sentido general, puede ubicarse en dos polos. En un extremo están quienes la repelen, rechazan o critican como algo pernicioso; en el otro, quienes la abrazan, aceptan o integran a su visión del mundo como algo deseable, o cuando menos, inevitable. Por supuesto, cada posición concreta de estas personas o escuelas de pensamiento cobra matices particulares.
+La relación con la tecnología suele moverse entre dos polos: el rechazo, por considerarla perjudicial, y la aceptación, como si fuera inevitable o incluso deseable. Esta dicotomía no es nueva. 
 
 Por ejemplo, Umberto Eco [-@eco2004], respecto a las tecnologías que alguna vez llamamos «medios de masas», ubicaba a los *apocalípticos* y a los *integrados*. Los primeros, críticos que consideraban que esas tecnologías comunicativas hacían daño a la cultura en general; mientras que los segundos ven en ellas una oportunidad para la innovación y el cambio social, ejemplos de esto son ideas como las de [sociedad del conocimiento](https://es.wikipedia.org/wiki/Sociedad_del_conocimiento) o [economía naranja](https://es.wikipedia.org/wiki/Economía_creativa). Otos ejemplos están en perspectivas teóricas como el «determinismo tecnológico», la idea de que los cambios sociales se deben a cambios tecnológicos; o el «constructivismo tecnológico», la idea de que los cambios tecnológicos se definen según configuraciones sociales específicas[^1].
 
@@ -28,7 +28,7 @@ Si enfatizamos *lo que hace posible la tecnología* tendríamos una visión «po
 
 [^2]: No debería sorprendernos pensar cómo internet transformó completamente la forma en que experimentamos el tiempo, el espacio y la propia «realidad». Nociones como el «tiempo real» serían muy difíciles de entender para una persona urbana en los años 50, al menos tal y como los entendería un adolescente de 15 años en el 2024. Lo mismo puede decirse de la posibilidad de «estar presente» en un lugar físico a la vez que en otro(s) lugar(es) digital(es). La posibilidad de crear «verdades» o «hechos» alternativos (posverdad o posfactualidad) sobre cosas como el calentamiento global, es un ejemplo de cómo el horizonte abstracto de la «verdad» también se ha transformado. Estos son otros temas a los que, por ahora, solo me limitaré a apuntar apenas algo en este texto.
 
-Me interesa investigar las tecnologías web como *algo que puede usarse* para optimizar o facilitar cosas, procesos, relaciones; pero también como algo que *posibilita* nuevas cosas, procesos y relaciones, y que, por tanto, puede impactar en las estructuras sociales. Esto es algo que ya hace, puesto que, desde una perspectiva sistémica, los sistemas tecnológicos interactúan dinámicamente con los económicos y los políticos, retroalimentándose. Son los actores sociales, las personas, grupos y organizaciones, quienes *hacen cosas* para adoptar, modificar, rechazar o potenciar configuraciones específicas de las tecnologías web.
+Personalmente, me interesa observar las tecnologías web desde ambas miradas: como medios para facilitar tareas, pero también como infraestructuras que generan nuevas formas de interacción social. En este sentido, la tecnología no está aislada, sino que interactúa con sistemas económicos y políticos, retroalimentándose con ellos.
 
 ## Los sistemas detrás de la tecnología
 
@@ -36,7 +36,6 @@ Esbozaré apenas algunas cosas sobre la compleja interacción entre tecnología 
 
 Por un lado está el «capitalismo de alta tecnología», *Silicon Valley*, los gigantes llamados [FAANG](https://es.wikipedia.org/wiki/Gigantes_tecnol%C3%B3gicos#FAANG). Las figuras culturales de este paradigma son, primero, el «emprendedor disruptivo», usualmente versado en programación y con una [mentalidad de crecimiento](https://youtu.be/_X0mgOOSpLU?si=KBybkTCkNHeaqpWn), que tiene una idea arriesgada de negocio con el potencial de generar una utilidad exponencial. Para eso necesita de la otra figura, el «capitalista de riesgo», una persona con capital suficiente para invertir en varios de estos emprendimientos, sabiendo que un buen porcetaje de ellos fracasarán, pero basta solo uno exitoso para multiplicar su inversión como ninguna otra. Desde Netflix hasta OpenAI (la empresa detrás de ChatGPT), estas son las empresas que han modelado el imaginario de la «alta tecnología», y son también el objeto principal de la crítica a la tecnología como responsable de un presente oscuro y un futuro distópico.
 
-La característica que más me interesa destacar de este contexto tecno-cultural (algunos llaman *tecnocrático*) es el modelo de suscripción como modelo dominante de negocio, que ha logrado separar el acto de consumir de la mercancía misma. Esto es [muy evidente con mercancías como libros, películas o música](por-qué-ya-no-somos-dueños-de-nada), pero continúa extendiéndose a cualquier cosas que contenga software privativo como parte esencial de su funcionamiento, como automóviles o electrodomésticos. Cuando compramos algo en este contexto, ya no estamos comprando la propiedad de una cosa, sino solo el derecho a *consumirla*, con la posibilidad de que ese derecho sea revocado, o que sus condiciones de *«uso»* cambien arbitrariamente. No es sorprendente imaginar una situación en la que, la empresa que te vendió el carro, te impida encenderlo si no pagaste la suscripción, actualización del software o cualquier otra clase de renta sobre una funcionalidad.
 
 Por otro lado, están personajes como [Richard Stallman](https://es.wikipedia.org/wiki/Richard_Stallman), [Aaron Swartz](https://es.wikipedia.org/wiki/Aaron_Swartz) y movimientos como el [Software libre y de código abierto](https://es.wikipedia.org/wiki/Software_libre_y_de_código_abierto), con sus variantes como el [conocimiento abierto](https://es.wikipedia.org/wiki/Conocimiento_abierto) o la democracia abierta [@gilman&cerveny2023; @rushkoff2004]. Estos movimientos «son opuestos» a la tecnología basada en capital de riesgo en el sentido de que atentan contra al varios de sus pilares, al menos tengo dos en mente, ahora mismo: la propiedad intelectual y la propiedad común (*commons*). Este paradigma funciona más como una economía del don [@bergquist&ljungberg2001; @vonkrogh&al2003], es decir, como un sistema donde el objetivo es *donar* la mayor cantidad posible de valor y, a cambio, se obtienen cosas como prestigio, liderazgo, y otros tipos de apoyo, incluido el económico. A diferencia de la competencia por obtener el capital de riesgo, en este contexto se busca la colaboración, vía contribuciones, el uso de acuerdos o convenciones desentralizados, y la autogestión de los proyectos.
 
@@ -44,8 +43,6 @@ Ambos paradigmas no están aislados, sino que se retroalimentan en múltiples ni
 
 ## Entonces, ¿despreciamos o abrazamos?
 
-Creo en el potencial de la tecnología para escalar cosas tan revolucionarias como la colaboración humana no jerárquica, como el uso libre, gratuito y abierto de recursos de todo tipo, pero entiendo que esta idea puede perderse en el mar de las complejidades sociotécnicas.
+La tecnología puede amplificar tanto la explotación como la cooperación. Puede servir al control o al bien común. No se trata de despreciarla ni de rendirse ante ella, sino de preguntarnos: ¿cómo queremos que funcione?, ¿en manos de quién?, ¿para qué fines?
 
-La tecnología es a la vez un instrumento y un agente posibilitador, puede ser la base de estructuras de explotación o de comunidad. Si ahora parece que está de un lado de la balanza, es porque las historias que más escuchamos destacan esa faceta.
-
-Por eso no debemos generalizar una actitud como desprecio o aceptación total. Pero es importante definir una postura que permita guiarnos al para imaginar cómo sería un mundo donde la tecnología no dañe a otros, sino que les sirva y les impulse.
+Solo así podremos imaginar y construir un mundo donde la tecnología no reproduzca desigualdades, sino que las desmonte.
