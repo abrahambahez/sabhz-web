@@ -47,13 +47,11 @@ function formatDate(str: string) {
     <div>
         {
             sortPosts(posts).map((post) => (
-                <p>
+                <p style="font-weight: 400;">
                     <span class="dateStyle">
                         {formatDate(post.data.createdAt)} ·
                     </span>
-                    <i>
-                        <a href={post.slug}> {post.data.title} </a>
-                    </i>
+                    <a href={post.slug}> {post.data.title} </a>
                 </p>
             ))
         }
