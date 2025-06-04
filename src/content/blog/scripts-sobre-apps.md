@@ -23,16 +23,16 @@ No importan mucho los detalles de la entrevista, es cuestión de practicar para 
 
 Linux siempre ha sido el sistema operativo que he querido usar en mi día a día. El problema es que no soy tan técnico y Linux a veces da un trabajo horrible, es brutalmente frustrante cuando te atoras en algo que no sabes cómo resolver, o que no tienes un mes para investigar.
 
-Pero ahora, tras sentirme atascado, simplemente sentí que era el momento de volver a algo que sea libre, que sea mío, que, tal vez, aunque con dificultad, pueda controlar.
+Pero ahora, tras sentirme atascado, sentí que era el momento de volver a algo que sea libre, que sea mío, que, tal vez, aunque con dificultad, pueda controlar.
 
 ## Scripts, no apps
 
-Muchos de los problemas que me ha dado Linux son porque no es compatible con cosas en Windows o en Mac. Yo quiero poder abrir una computadora y hacer mis cosas, que el sistema se haga a un lado. Si debo trabajar con Mac a veces pero volver a Linux, no tener que pasar por el trabajo cognitivo de adaptarme a ambientes completamente diferentes.
+Muchos de los problemas que me ha dado Linux son porque no es compatible con cosas en Windows o en Mac. Yo quiero poder abrir una computadora y hacer mis cosas, que el sistema se haga a un lado. Si debo trabajar con Mac a veces pero volver a Linux, no tener que pasar por el trabajo cognitivo de adaptarme a ambientes completamente diferentes, ajustar la memoria muscular, cerrar una ventana por accidente al querer poner un arroba.
 
 Hace un par de días, mientras me *terapeaba* entendí varias cosas:
 
 - No necesitas sincronizar todo en todos los dispositivos, especialmente en el teléfono móvil. Qué obsesión tan inútil.
-- Querer las mismas apps o experiencias en mis computadoras no resuelve realmente ningún problema.
+- Querer las mismas apps en mis computadoras no resuelve realmente ningún problema.
 - Lo que más hago es leer, escribir, trabajar con archivos multimedia para videos sencillos en Youtube.
 - Cualquier otra cosa más avanzada, incluyendo el uso de IA, puede resolverse a traves de pequeños programas, o *scripts*,  ejecutables desde la terminal, que automaticen tareas repetitivas.
 - Los programas ejecutables desde una terminal, mucho más que las aplicaciones, son la verdadera forma de hacer que mi entorno de trabajo sea portable.
