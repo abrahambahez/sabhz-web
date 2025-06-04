@@ -28,6 +28,19 @@ function formatDate(str: string) {
 ---
 
 <Home title="Archivo">
+    <h2>Publicaciones</h2>
+    <div>
+        {
+            sortPosts(posts).map((post) => (
+                <p style="font-weight: 400;">
+                    <span class="dateStyle">
+                        {formatDate(post.data.createdAt)} ·
+                    </span>
+                    <a href={post.slug}> {post.data.title} </a>
+                </p>
+            ))
+        }
+    </div>
     <h2>Colecciones</h2>
     <div>
         {
@@ -39,19 +52,6 @@ function formatDate(str: string) {
                     <i>
                         <a href={post.slug}> {post.data.title} </a>
                     </i>
-                </p>
-            ))
-        }
-    </div>
-    <h2>Publicaciones</h2>
-    <div>
-        {
-            sortPosts(posts).map((post) => (
-                <p style="font-weight: 400;">
-                    <span class="dateStyle">
-                        {formatDate(post.data.createdAt)} ·
-                    </span>
-                    <a href={post.slug}> {post.data.title} </a>
                 </p>
             ))
         }
