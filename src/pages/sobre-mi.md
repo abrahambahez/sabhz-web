@@ -4,7 +4,7 @@ title: Abraham Bahez
 updatedAt: "2025-03-15T08:51"
 ---
 
-<img src="/sabhz200.png" alt="Perfil" style="margin-top:12.5vh;">
+<img src="/sabhz200.png" alt="Perfil" style="margin-top:12.5vh; max-width:200px">
 
 <h1 style="margin-top:0;"><a href="/">Sobre mí</a></h1>
 
