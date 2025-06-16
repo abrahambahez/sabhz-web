@@ -22,7 +22,7 @@ Esta es la lista del contenido que planeo hacer a la fecha de actualización de 
     * 3.1. [Libro como objeto y libro como medio de comunicación](https://youtu.be/TBQkSw1xLFU?feature=shared)
     * 3.2. [Cómo subrayar un libro](https://youtu.be/q6Dw3WFdh08?feature=shared)
     * 3.3. [Cómo crear tu estrategia de notas de lectura](https://youtu.be/L9VW7JkXA6U)
-4. Lectura sintópica
+4. [Lectura sintópica](https://youtu.be/3yOOuF59mmo)
 5. Lectura multimedia
 6. Lectura hipertextual
 7. Lectura incremental
