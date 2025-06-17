@@ -9,6 +9,8 @@
     --secondary-background-color-light: #d8d8d8;
     --text-color-dark: #d8d8d8;
     --text-color-light: #1e1e1e;
+    --text-color-dark-sec: #c0c0c0;
+    --text-color-light-sec: #232323;
     --soft-text-color-dark: #999;
     --soft-text-color-light: #737373;
     --accent-color-light: slateBlue;
@@ -47,6 +49,10 @@
         -webkit-text-fill-color: transparent;
         background-clip: text;
     }
+    h3,h4,h5,h6 {
+        color: var(--text-color-dark-sec);
+    }
+
 }
 
 @media (prefers-color-scheme: light) {
@@ -76,6 +82,9 @@
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         background-clip: text;
+    }
+    h3,h4,h5,h6 {
+        color: var(--text-color-light-sec);
     }
 }
 
@@ -116,22 +125,26 @@ h1 {
 
 h2 {
     font-family: var(--default-font-family);
-    font-weight: 700;
+    font-weight: 800;
     line-height: 1.25;
     padding-top: 3rem;
     /* font-variant: small-caps; */
     letter-spacing: 0.02em;
 }
 
-h3,
+h3 {
+    padding-top: 3rem;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
 h4,
 h5,
 h6 {
     font-family: var(--default-font-family);
     font-weight: 600;
-    padding-top: 3rem;
     margin-bottom: 0;
-    text-align: center;
+    /* text-align: center; */
 }
 strong {
     font-weight: 800;
