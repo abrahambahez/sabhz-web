@@ -8,6 +8,12 @@ lang: es
 ---
 Esta es una lista de personas que he encontrado en internet y me han inspirado de alguna forma, o cuyo pensamiento vale mucho la pena seguir de cerca. Sin orden particular.
 
+## [Richard Dennis Bartlett](https://richdecibels.com/)
+Uno de los creadores de [Loomio](https://www.loomio.com/), una aplicación para tomar decisiones de forma descentralizada, lo conocí por esta excelente compilación de documentos de organizaciones no jerárquicas:
+
+- [The Handbook of Handbooks for Decentralised Organising](https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE)
+- También su sitio sobre [microsolidaridad](https://www.microsolidarity.cc/)
+
 ## [Julian Lehr](https://julian.digital/)
 
 Un blog muy interesante con ideas sobre experiencia e interfaces de usuario, así como pensamiento de producto.

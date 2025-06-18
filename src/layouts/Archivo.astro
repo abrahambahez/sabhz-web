@@ -1,0 +1,51 @@
+---
+import "/src/styles/global.css";
+const { title, updatedAt } = Astro.props.frontmatter || Astro.props;
+const footerData = [
+    {
+        text: "Blog",
+        link: "/",
+    },
+    {
+        text: "RSS",
+        link: "rss.xml",
+    },
+    {
+        text: "tacto@sabhz.com",
+        link: "mailto:tacto@sabhz.com",
+    },
+];
+---
+
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <title>{title}</title>
+    </head>
+
+    <body>
+        <main class="archivo">
+            <slot />
+        </main>
+        <footer>
+            <p>❦</p>
+            <p>
+                {
+                    footerData.map((item) => (
+                        <a href={item.link}> {item.text} </a>
+                    ))
+                }
+            </p>
+        </footer>
+    </body>
+</html>
+
+<style>
+.archivo {
+    max-width:100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+</style>

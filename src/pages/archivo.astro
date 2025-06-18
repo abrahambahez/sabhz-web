@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import Home from "../layouts/Home.astro";
+import Archivo from "../layouts/Archivo.astro";
 
 const posts = await getCollection("blog", ({ data }) =>
     data.tags.includes("Publicacion"),
@@ -27,33 +27,46 @@ function formatDate(str: string) {
 }
 ---
 
-<Home title="Archivo">
-    <h2>Publicaciones</h2>
-    <div>
-        {
-            sortPosts(posts).map((post) => (
-                <p style="font-weight: 400;">
-                    <span class="dateStyle">
-                        {formatDate(post.data.createdAt)} ·
-                    </span>
-                    <a href={post.slug}> {post.data.title} </a>
-                </p>
-            ))
-        }
-    </div>
-    <h2>Colecciones</h2>
-    <div>
-        {
-            sortPosts(collections).map((post) => (
-                <p>
-                    <span class="dateStyle">
-                        {formatDate(post.data.createdAt)} ·
-                    </span>
-                    <i>
+<Archivo title="Archivo" >
+    <section class="column">
+        <h2>Publicaciones</h2>
+        <div>
+            {
+                sortPosts(posts).map((post) => (
+                    <p style="font-weight: 400;">
+                        <span class="dateStyle">
+                            {formatDate(post.data.createdAt)} ·
+                        </span>
                         <a href={post.slug}> {post.data.title} </a>
-                    </i>
-                </p>
-            ))
-        }
-    </div>
-</Home>
+                    </p>
+                ))
+            }
+        </div>
+    </section>
+
+    <section class="column">
+        <h2>Colecciones</h2>
+        <div>
+            {
+                sortPosts(collections).map((post) => (
+                    <p>
+                        <span class="dateStyle">
+                            {formatDate(post.data.createdAt)} ·
+                        </span>
+                        <i>
+                            <a href={post.slug}> {post.data.title} </a>
+                        </i>
+                    </p>
+                ))
+            }
+        </div>
+    </section>
+
+</Archivo>
+
+<style>
+.column {
+    max-width: 600px;
+    padding:0 1rem;
+}
+</style>
