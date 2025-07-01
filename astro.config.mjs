@@ -11,10 +11,7 @@ export default defineConfig({
     remarkPlugins: [
       "remark-code-titles",
       sidenotes,
-      [
-        'remark-toc',
-        { heading: 'Contenido' }
-      ]
+      ["remark-toc", { heading: "Contenido" }],
     ],
     rehypePlugins: [
       "rehype-slug",
@@ -27,7 +24,8 @@ export default defineConfig({
           csl: "chicago",
           linkCitations: true,
           inlineClass: ["citation"],
-          lang: "https://raw.githubusercontent.com/citation-style-language/locales/master/locales-es-MX.xml",
+          lang: "es-MX",
+          // lang: "https://raw.githubusercontent.com/citation-style-language/locales/master/locales-es-MX.xml",
         },
       ],
     ],
