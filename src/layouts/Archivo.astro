@@ -1,5 +1,6 @@
 ---
 import "/src/styles/global.css";
+import Footer from "../components/Footer.astro";
 const { title, updatedAt } = Astro.props.frontmatter || Astro.props;
 const footerData = [
     {
@@ -28,23 +29,13 @@ const footerData = [
         <main class="archivo">
             <slot />
         </main>
-        <footer>
-            <p>❦</p>
-            <p>
-                {
-                    footerData.map((item) => (
-                        <a href={item.link}> {item.text} </a>
-                    ))
-                }
-            </p>
-        </footer>
+        <Footer links={footerData} />
     </body>
 </html>
 
 <style>
 .archivo {
-    max-width:100%;
-    display: flex;
-    flex-wrap: wrap;
+    max-width: 600px;
+    padding: 0 1rem;
 }
 </style>

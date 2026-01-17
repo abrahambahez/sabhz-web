@@ -1,0 +1,24 @@
+---
+interface Props {
+    links: { text: string; link: string }[];
+    showBackToTop?: boolean;
+}
+
+const { links, showBackToTop = false } = Astro.props;
+---
+
+<footer>
+    <p>❦</p>
+    {showBackToTop && <p><a href="#top">Volver al principio ↑</a></p>}
+    <p class="footer-links">
+        {links.map((item) => <a href={item.link}>{item.text}</a>)}
+    </p>
+</footer>
+
+<style>
+    .footer-links {
+        display: flex;
+        justify-content: flex-start;
+        gap: 1.5rem;
+    }
+</style>

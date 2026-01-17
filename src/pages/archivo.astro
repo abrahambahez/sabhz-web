@@ -2,20 +2,12 @@
 import { getCollection } from "astro:content";
 import Archivo from "../layouts/Archivo.astro";
 
-const posts = await getCollection("blog", ({ data }) =>
-    data.tags.includes("Publicacion"),
-);
-
-const collections = await getCollection("blog", ({ data }) =>
-    data.tags.includes("Coleccion"),
-);
+const allPosts = await getCollection("blog");
 const collator = new Intl.Collator(undefined);
 
-function sortPosts(posts: Array<any>) {
-    return posts
-        .sort((a, b) => collator.compare(a.data.createdAt, b.data.createdAt))
-        .reverse();
-}
+const sortedPosts = allPosts
+    .sort((a, b) => collator.compare(a.data.createdAt, b.data.createdAt))
+    .reverse();
 
 function formatDate(str: string) {
     let date = new Date(str);
@@ -25,48 +17,38 @@ function formatDate(str: string) {
         day: "2-digit",
     });
 }
+
+function isCollection(post: any) {
+    return post.data.tags.includes("Coleccion");
+}
 ---
 
-<Archivo title="Archivo" >
-    <section class="column">
-        <h2>Publicaciones</h2>
+<Archivo title="Archivo">
+    <section>
+        <p class="legend">⚹ indica una colección de enlaces</p>
         <div>
             {
-                sortPosts(posts).map((post) => (
-                    <p style="font-weight: 400;">
-                        <span class="dateStyle">
-                            {formatDate(post.data.createdAt)} ·
-                        </span>
-                        <a href={post.slug}> {post.data.title} </a>
-                    </p>
-                ))
-            }
-        </div>
-    </section>
-
-    <section class="column">
-        <h2>Colecciones</h2>
-        <div>
-            {
-                sortPosts(collections).map((post) => (
+                sortedPosts.map((post) => (
                     <p>
                         <span class="dateStyle">
                             {formatDate(post.data.createdAt)} ·
                         </span>
-                        <i>
-                            <a href={post.slug}> {post.data.title} </a>
-                        </i>
+                        <a href={post.slug}>{post.data.title}</a>
+                        {isCollection(post) && <span class="sextile"> ⚹</span>}
                     </p>
                 ))
             }
         </div>
     </section>
-
 </Archivo>
 
 <style>
-.column {
-    max-width: 600px;
-    padding:0 1rem;
+.sextile {
+    opacity: 0.6;
+}
+.legend {
+    margin-bottom: 1rem;
+    font-size: 0.85em;
+    opacity: 0.7;
 }
 </style>

@@ -1,5 +1,6 @@
 ---
 import "/src/styles/global.css";
+import Footer from "../components/Footer.astro";
 const { title, updatedAt } = Astro.props.frontmatter || Astro.props;
 const footerData = [
     {
@@ -28,15 +29,6 @@ const footerData = [
         <main>
             <slot />
         </main>
-        <footer>
-            <p>❦</p>
-            <p>
-                {
-                    footerData.map((item) => (
-                        <a href={item.link}> {item.text} </a>
-                    ))
-                }
-            </p>
-        </footer>
+        <Footer links={footerData} />
     </body>
 </html>

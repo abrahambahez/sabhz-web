@@ -1,7 +1,7 @@
 ---
 import "/src/styles/global.css";
-import "/src/styles/sidenotes.css";
-const { title, updatedAt } = Astro.props.frontmatter || Astro.props;
+import Footer from "../components/Footer.astro";
+const { title, createdAt, updatedAt } = Astro.props.frontmatter || Astro.props;
 const headerData = [
     {
         text: "ARCHIVO",
@@ -41,12 +41,12 @@ function formatDate(str: string) {
     </head>
 
     <body>
-        <main>
+        <article>
             <header>
                 <p style="font-weight: 800;">
                     {
                         headerData.map((item) => (
-                            <a href={item.link} style="padding-right: 1rem">
+                            <a href={item.link} >
                                 {" "}
                                 {item.text}{" "}
                             </a>
@@ -56,32 +56,22 @@ function formatDate(str: string) {
                 <h1 class="title">
                     <a href="/">{title}</a>
                 </h1>
-                <p
-                    class="updatedAt"
-                    style={title == "Archivo"
-                        ? "display:none;"
-                        : "display: block;"}
-                >
-                    Última actualización el {formatDate(updatedAt)}
+                <p style={title == "Archivo" ? "display:none;" : "display: block;"}>
+                    Publicado: {formatDate(createdAt)}
+                </p>
+                <p style={title == "Archivo" ? "display:none;" : "display: block;"}>
+                    Actualizado: {formatDate(updatedAt)}
                 </p>
             </header>
-            <slot />
+            <section>
+                <slot />
 
-            <button id="toggle-references-button" class="hidden">
-                Ver referencias
-            </button>
-        </main>
-        <footer>
-            <p>❦</p>
-            <p><a href="#top">Volver al principio ↑</a></p>
-            <p>
-                {
-                    footerData.map((item) => (
-                        <a href={item.link}> {item.text} </a>
-                    ))
-                }
-            </p>
-        </footer>
+                <button id="toggle-references-button" class="hidden">
+                    Ver referencias
+                </button>
+            </section>
+        </article>
+        <Footer links={footerData} showBackToTop={true} />
         <script>
             document.addEventListener("DOMContentLoaded", () => {
                 const button = document.getElementById(

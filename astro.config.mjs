@@ -1,5 +1,6 @@
 import { defineConfig } from "astro/config";
 import addClasses from "./add-classes.mjs";
+import wrapMedia from "./wrap-media.mjs";
 import rehypeCitation from "rehype-citation";
 import sidenotes from "remark-sidenotes";
 
@@ -16,6 +17,7 @@ export default defineConfig({
     rehypePlugins: [
       "rehype-slug",
       [addClasses, { "h1,h2,h3": "title" }],
+      wrapMedia,
       [
         rehypeCitation,
         {
