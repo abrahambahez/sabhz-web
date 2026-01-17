@@ -3,7 +3,7 @@ title: Credo
 createdAt: 2023-01-24T08:22
 updatedAt: 2024-06-21T17:27
 tags:
-  - Publicacion
+  - Coleccion
 lang: es
 ---
 

@@ -1,10 +1,11 @@
 ---
 layout: '../layouts/Home.astro'
 title: Abraham Bahez
+createdAt: "2023-02-01T12:00"
 updatedAt: "2025-03-15T08:51"
 ---
 
-<img src="/sabhz200.png" alt="Perfil" style="margin-top:12.5vh; max-width:200px">
+<img src="/sabhz200.png" alt="Perfil" style="margin-top:12.5vh; margin-bottom:7.5vh; max-width:200px">
 
 <h1 style="margin-top:0;"><a href="/">Sobre mí</a></h1>
 
@@ -18,7 +19,7 @@ Prefiero que me escriban por correo electrónico, reviso mi bandeja dos veces al
 
 ## Sobre este blog
 
-Programé este blog usando AstroJS, yo mismo escribí los estilos (CSS) y lo desplegué en Vercel. No uso telemetría, no se cuántas personas lo han visitado.
+Programé este blog usando AstroJS, los estilos se basan en una versión ligeramente modificada de  [Tufte CSS](https://github.com/edwardtufte/tufte-css). Está desplegado en Vercel. No uso telemetría, no se cuántas personas lo han visitado.
 
 Pero me interesaría mucho saber si tú tienes un blog en español, he tratado de hacer una lista desde hace tiempo, pero solo me entristece ver que muchos están abandonados o ya caídos. Si tú escribes o conoces algún blog (de preferencia no Medium ni Substack), ¡por favor, escríbeme por email!
 

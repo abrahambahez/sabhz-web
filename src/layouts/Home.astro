@@ -26,9 +26,11 @@ const footerData = [
     </head>
 
     <body>
-        <main>
-            <slot />
-        </main>
+        <article>
+            <section>
+                <slot />
+            </section>
+        </article>
         <Footer links={footerData} />
     </body>
 </html>

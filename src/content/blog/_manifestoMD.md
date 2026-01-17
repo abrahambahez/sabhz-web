@@ -1,1 +1,0 @@
-Un archivo markdown para expresar la visión de una aplicación de código abierto, el valor social, independientemente de la implementación específica.
