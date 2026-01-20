@@ -1,5 +1,5 @@
 ---
-title: La crisis de las izquiedas
+title: La crisis de las izquierdas
 createdAt: 2026-01-19T16:31
 updatedAt: 2026-01-19T16:31
 tags:
@@ -7,6 +7,11 @@ tags:
 lang: es
 ---
 
+No sé por qué no lo entiendo, el presente. Escribo esto con las manos entumidas, y la mente tal vez fría, desacostumbrado como estoy a pensar prolongadamente en un problema sin distraerme por cualquier cosa, obligaciones, trivialidades, asuntos urgentes o cosas sin importancia. Veré si puedo explicarme.
+
+Primero, soy una persona de izquierda, aunque este mote se desmorone al comenzar a interrogarme con los matices. Segundo, el presente que no entiendo es lo que muchos llaman el «ascenso del fascismo»
+
+Como si la izquierda nece
 
 - ==No estamos entendiendo==
 - Si debates `let pierdes = "pierdes"`
@@ -15,10 +20,13 @@ lang: es
 
 ## Notas sobre el estado de cosas del mundo
 
+<<<<<<< HEAD
 - el poder de la estetización superficial 
 - Identidades algorítmicas y los límites de las políticas de reconocimiento
 - tibieza extrema
 - Las tuberías de radicalización reaccionaria (cómo llegar a la derecha desde múltiples puntos de partida)
+=======
+>>>>>>> f2443a4 (Chore: Post update)
 
 ## Mapear la escena de lo reaccionario
 
@@ -43,12 +51,20 @@ lang: es
     - Crisis de la academia: burbujas jerárquicas institucionales, sectarismos autorreferenciales, irrelevancia social general, instrumentalización de la ciencia en el capitalismo
     - Crisis de las ciencias y las humanidades: dependencia institucional o de financiamiento tendencioso, postfactualidad, negacionismo, conspiración, mitologías modernas
     - Crisis epistémica: el problema de la "razonabilidad" (filosófico, antropológico)
+<<<<<<< HEAD
 
 ### Los paradigmas involucrados
 
 - La modernidad y su crítica
 - La posmodenidad y el posthumanismo
 - Decolonialidad transmoderna
+=======
+- Éxito táctico y estratégico
+    - Tibieza extrema
+    - Tuberías de lo cotidiano
+    - Estetización e identidades algorítimicas
+
+>>>>>>> f2443a4 (Chore: Post update)
 
 ## Sobre la responsabilidad de la izquierda
 
