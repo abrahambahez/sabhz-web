@@ -21,4 +21,10 @@ const { links, showBackToTop = false } = Astro.props;
         justify-content: flex-start;
         gap: 1rem;
     }
+
+    @media (max-width: 400px) {
+        .footer-links {
+            font-size: 0.9rem;
+        }
+    }
 </style>
