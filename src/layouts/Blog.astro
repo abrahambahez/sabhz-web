@@ -31,6 +31,8 @@ function formatDate(str: string) {
         day: "numeric",
     });
 }
+const isArchivo = title === "Archivo";
+const showUpdatedAt = !isArchivo && createdAt !== updatedAt;
 ---
 
 <html lang="es">
@@ -56,12 +58,6 @@ function formatDate(str: string) {
                 <h1 class="title">
                     <a href="/">{title}</a>
                 </h1>
-                <p style={title == "Archivo" ? "display:none;" : "display: block;"}>
-                    Publicado: {formatDate(createdAt)}
-                </p>
-                <p style={title == "Archivo" ? "display:none;" : "display: block;"}>
-                    Actualizado: {formatDate(updatedAt)}
-                </p>
             </header>
             <section>
                 <slot />
@@ -70,6 +66,11 @@ function formatDate(str: string) {
                     Ver referencias
                 </button>
             </section>
+            <div>
+                <hr>
+                {!isArchivo && <p><em>{formatDate(createdAt)}</em></p>}
+                {showUpdatedAt && <p><em>Actualizado el {formatDate(updatedAt)}</em></p>}
+            </div>
         </article>
         <Footer links={footerData} showBackToTop={true} />
         <script>
