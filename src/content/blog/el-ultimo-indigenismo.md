@@ -8,8 +8,8 @@ lang: es
 ---
 
 > *Nota: Este es mi último ensayo escrito para el doctorado. Lo publico tal cual lo entregué por varias razones: no tengo tiempo de editarlo como se debe, creo que es interesante aunque hable de un tema estrictamente antropológico, no tengo dónde más ponerlo, etcétera.*
->
->  Escribo aquí lo que me hubiera gustado conversar con mis compañeras, compañeros y profesora, particularmente sobre el problema del Estado y la necesidad de que la antropología cree una «sana distancia» con él. Tomo como punto de partida el sacudimiento del zapatismo para explorar las diversas reacciones indigenistas y estatalistas. Posteriormente, argumento sobre la imposibilidad del Estado para amparar una sociedad respetuosa de los intereses de sus miembros. Concluyo proponiendo una antropología crítica y distanciada del Estado, que pueda ser útil para pensar otras formas de organización política y económica.
+
+Escribo aquí lo que me hubiera gustado conversar con mis compañeras, compañeros y profesora, particularmente sobre el problema del Estado y la necesidad de que la antropología cree una «sana distancia» con él. Tomo como punto de partida el sacudimiento del zapatismo para explorar las diversas reacciones indigenistas y estatalistas. Posteriormente, argumento sobre la imposibilidad del Estado para amparar una sociedad respetuosa de los intereses de sus miembros. Concluyo proponiendo una antropología crítica y distanciada del Estado, que pueda ser útil para pensar otras formas de organización política y económica.
 
 ## De las grietas del concreto nacieron las flores: el zapatismo como sacudida
 

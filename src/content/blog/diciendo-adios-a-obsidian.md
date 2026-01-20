@@ -6,7 +6,6 @@ tags:
   - Publicacion
 lang: es
 ---
-
 Pensando en la filosofía de [*scripts* sobre apps](scripts-sobre-apps) y, entre otras razones, estoy repensando mi relación con la aplicación de [Obsidian](https://obsidian.md/). Obsidian es, para mí, la mejor aplicación de notas interconectadas que existe, de entre las decenas que hay, y por mucho. La he usado desde su versión 0.5.1, en el 2020. Mi última bóveda tiene más de dos mil notas con lo que he aprendido los últimos 4 o 5 años, tanto en el doctorado como en el trabajo de tecnología.
 
 **Obsidian literalmente cambió la forma en la que pienso**. Ha mantenido y mantendrá ese liderazgo un buen tiempo. La sigo recomendando sin dudarlo.
