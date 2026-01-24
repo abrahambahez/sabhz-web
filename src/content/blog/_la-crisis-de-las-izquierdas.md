@@ -7,102 +7,42 @@ tags:
 lang: es
 ---
 
-No sé por qué no lo entiendo, el presente. Escribo esto con las manos entumidas, y la mente tal vez fría, desacostumbrado como estoy a pensar prolongadamente en un problema sin distraerme por cualquier cosa, obligaciones, trivialidades, asuntos urgentes o cosas sin importancia. Veré si puedo explicarme.
+No sé por qué no lo entiendo, el presente. Escribo esto con las manos entumidas, y la mente tal vez fría, desacostumbrado, como estoy ahora, a pensar prolongadamente en un problema sin distraerme por cualquier cosa, obligaciones, trivialidades, asuntos urgentes o cosas sin importancia. Veré si puedo explicarme.
 
-Primero, soy una persona de izquierda, aunque este mote se desmorone al comenzar a interrogarme con los matices. Segundo, el presente que no entiendo es lo que muchos llaman el «ascenso del fascismo»
+Primero, soy una persona de izquierda, aunque este mote se desmorone al comenzar a interrogarme sobre los matices. Segundo, el presente que no entiendo es lo que muchos llaman el «ascenso del fascismo»[^1] en el mundo. Entonces, mi problema de entendimiento empieza con la propia manera de describir lo que quiero entender en primer lugar. Porque mientras más le doy vueltas, más tengo la impresión de que mi problema en realidad es el de *la crisis de las izquierdas*. Particularmente, una serie de actitudes, creencias y actos que algunas personas públicas que, del lado siniestro del espectro político, me dejaron la sensación de que «no entendemos que no entendemos».
 
-Como si la izquierda nece
+Tal vez la idea de una izquierda como unidad conceptual es una quimera; una forma perezosa para no tener que listar cualquier posición política que vaya del liberalismo democrático al anarcoprimitivismo[^2]. Esto sería triste, porque implicaría que somos incapaces de establecer alianzas más amplias para enfrentarnos de forma contundente a los poderes que están masacrando personas, haciendo trizas logros pretéritos y revirtiendo derechos conquistados con sangre y sudor. También significaría que no se ha hecho nada permanente para subvertir las estructuras que posibilitan esos poderes.
 
-- ==No estamos entendiendo==
-- Si debates `let pierdes = "pierdes"`
-- Todo es fascista, o sobre la ignorancia del enemigo
+Como no puedo esperar a tener claridad, porque eso es algo que solo puedo lograr escribiendo, listaré a continuación todas las ideas que tengo al respecto. Tal vez al final solo resulte que lo que tenía era una indigestión cognitiva.
 
+## Contenido
 
-## Notas sobre el estado de cosas del mundo
+## 1. Irreflexividad e inestabilidad espistemológica
 
-<<<<<<< HEAD
-- el poder de la estetización superficial 
-- Identidades algorítmicas y los límites de las políticas de reconocimiento
-- tibieza extrema
-- Las tuberías de radicalización reaccionaria (cómo llegar a la derecha desde múltiples puntos de partida)
-=======
->>>>>>> f2443a4 (Chore: Post update)
+- No todo es fascismo: la necesidad de actualizar diagnósticos
+- Formalismo crónico  y purismo ideológico
+- Metabolizar la derrota
+- Crisis de marcos epistemológicos: la necesidad de decolonizar la teoría, la necesidad de humildad intelectual (el no-saber), incorporación de conocimientos no-académicos
+	- Encubrimientos
+
+## 2. Irrelevancia comunicativa
+
+- Desprecio de la estética y el deseo
+- Analfabetismo tecnológico militante
+- Moralismo que fomenta sentimientos negativos como fuente de movilización (culpa, rabia, indignación), que son desgastantes, contraproducentes e insostenibles a largo plazo
+- Incapacidad de comunicar asertivamente la complejidad de los problemas para construir una cosmovisión deseable y movilizar iniciativas
+- Ausencia de narrativas de victoria
+
+## 3. Ausencia de estructuras fuera del Estado
+
+- En Latam, dependencia de victorias electorales y del Estado
+- Ausencia de estructuras de concientización política en lo cotidiano
+- Ausencia de infraestructuras económicas
+- Detrimento de la efectividad táctica y estratégica de las acciones en nombre del purismo ideológico
 
 ## Mapear la escena de lo reaccionario
 
-- Movimientos neorreaccionarios
-    - NRx, ilustración oscura
-    - Iluminismo de derecha: del humanismo eurocéntrico al «hiperracionalismo»
-    - *Redpill* y *Blackpill*
-    - Criptofascismo
-- Supremacismos
-    - Alt-right y supremacismo blanco
-    - Manósfera y supremacismos de género
-- Características económico-políticas
-    - Conservadurismo político (Nacionalismo, tradición, «guerra cultural»)
-    - Cristianismos fundamentalistas
-        - Ultra-catolicismo
-        - Sionismo
-    - Tecnocracia
-    - *«Futarchy»*
-    - Tibieza extrema
-    - Neoliberalismo, Anarcocapitalismo, realismo capitalista
-- Crisis cognitiva
-    - Crisis de la academia: burbujas jerárquicas institucionales, sectarismos autorreferenciales, irrelevancia social general, instrumentalización de la ciencia en el capitalismo
-    - Crisis de las ciencias y las humanidades: dependencia institucional o de financiamiento tendencioso, postfactualidad, negacionismo, conspiración, mitologías modernas
-    - Crisis epistémica: el problema de la "razonabilidad" (filosófico, antropológico)
-<<<<<<< HEAD
 
-### Los paradigmas involucrados
+[^1]: O el giro hacia la derecha, o el recrudecimiento de los movimientos reaccionarios, o la escalada del conservadurismo fundamentalista en occidente, o como sea que queramos describirlo
 
-- La modernidad y su crítica
-- La posmodenidad y el posthumanismo
-- Decolonialidad transmoderna
-=======
-- Éxito táctico y estratégico
-    - Tibieza extrema
-    - Tuberías de lo cotidiano
-    - Estetización e identidades algorítimicas
-
->>>>>>> f2443a4 (Chore: Post update)
-
-## Sobre la responsabilidad de la izquierda
-
-### Irrelevancia comunicativa
-- Desprecio del poder de la estética y el deseo
-- Analfabetismo tecnológico militante
-- Moralismo que fomenta sentimientos negativos como fuente de movilización (culpa, rabia, indignación), desgastantes e insostenibles a largo plazo
-- Incapacidad de comunicar asertivamente la complejidad para movilizar
-
-### Inefectividad fuera del Estado
-- En Latam, dependencia crítica del poder estatal-electoral
-- Ausencia de procesos propios
-- 
-
-### Irreflexividad e inestabilidad espistemológica
-
-
-
-
-
-
-
-### ¿Pobreza diagnóstica o sob
-
-Marcos conceptuales desactualizados o pobremente socializados, necesidad de incorporar el no-saber (una actitud que favorece escuchar a los pueblos y aprender de ellos para co-crear políticas inclusivas).
-
-Decir «no sé» puede entenderse como un defecto. Estratégicamente, en vez de expresar un «no sé» puede usarse un «¿cómo podríamos (conocerlo/hacerlo)?»
-
-### Formalismo crónico
-
-Formalismo severo (defender a toda costa una idea en lo formal, ej. "libertad de expresión", sin considerar contextos de enunciación, procesos históricos, daño concreto de una situación), cuya posible superación está en una actitud más decolonial (entender que el contenido concreto de la forma que se defiende no es el modelo eurocéntrico con el que originalmente se creó)
-
-### Navegar, no controlar
-
-Aceptación optimista de la complejidad, el caos y la incertidumbre como parte necesaria del proceso, para crear mejores estrategias: no puedes **controlar** el mar, solo puedes aprendender a **navegar** en él. Si las derechas buscan control, ¿qué podrían buscar las izquierdas?
-
-### Efectividad sobre purismo ideológico
-
-1. La necesidad de priorizar la efectividad sobre el purismo ideológico, trazando líneas rojas específicas que operen en situaciones concretas
-2. Moralismo, lenta resiliencia (poca autocrítica pública), desprecio por la estética y el deseo
-
+[^2]: Ni siquiera estoy muy seguro de qué posiciones formarían parte de las esquinas del espectro

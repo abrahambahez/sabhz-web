@@ -1,11 +1,12 @@
 ---
-title: "Ética de la transición: ¿Una alternativa a mi desgaste moral?"
+title: "Notas para una ética de la transición"
 createdAt: 2025-07-01T18:54
-updatedAt: 2025-07-01T18:54
+updatedAt: 2026-01-24T16:45
 tags:
   - Publicacion
 lang: es
 ---
+
 Cuando escribí sobre [separar mi trabajo de mis proyectos prefigurativos](separar-trabajo-de-proposito) planteé un dilema moral. Mi dilema radica en cómo conciliar mi creencia en la necesidad de prototipar utopías y trascender el capitalismo y el Estado con la realidad ineludible de que mi subsistencia actual depende de «jugar en el sistema». Esta contradicción me genera una disonancia, ya que valoro el trabajo con propósito, pero me veo obligado a participar en estructuras que considero inherentemente opresivas o ineficaces para el cambio sistémico, lo que me lleva a considerar una «doble vida» entre mi empleo y mis proyectos personales.
 
 Este extraño ensayo es una posible alternativa a mi dilema.
@@ -16,88 +17,70 @@ Este extraño ensayo es una posible alternativa a mi dilema.
 
 ## Definición: ética de la transición
 
-La ética de la transición es una posición moral que acepta la participación consciente en estructuras capitalistas como estrategia temporal para construir alternativas convivenciales, manteniendo tensión productiva entre supervivencia material y transformación social[^0].
-
-[^0]: ¿Qué es eso de convivenciales? Tal vez quieras leer mi ensayo: [Prototipar Utopías](prototipar-utopias).
+La ética de la transición es una posición moral que acepta la participación consciente en estructuras capitalistas como estrategia temporal para construir alternativas convivenciales, manteniendo tensión productiva entre supervivencia material y transformación social.
 
 ## Conceptos fundamentales
 
-### Contradicción intrínseca
+### 1. Contradicción intrínseca
 
-Es imposible que exista una coherencia ética absoluta para las personas que vivimos bajo el capitalismo tardío, y estamos en contra de él, pero no vemos en la (auto)marginación una alternativa emancipatoria. La negación de las contradicciones morales o la legitimación del capitalismo implican alienación, mientras que la aceptación de esas contradicciones implica angustia y disonancia cognitiva.
+Es imposible que exista una coherencia ética absoluta para las personas que vivimos bajo el capitalismo tardío, y estamos en contra de él, pero no vemos en la (auto)marginación una alternativa emancipatoria. La negación de las contradicciones morales o la legitimación del capitalismo implican alienación, mientras que la aceptación de esas contradicciones implica angustia y disonancia cognitiva[^1].
 
-Fundamento: El realismo capitalista de Mark Fisher, la teoría marxista de la alienación y algunos derivados (*El hombre unidimensional* de Marcuse), la teoría de la hegemonía Gramsciana.
+[^1]: Fundamento: El realismo capitalista de Mark Fisher, la teoría marxista de la alienación y algunos derivados (*El hombre unidimensional* de Marcuse), la teoría de la hegemonía Gramsciana.
 
-### Contaminación bidireccional 
+### 2. Contaminación bidireccional 
 
-Es el uso estratégico, vigilado, de recursos/metodologías capitalistas para fines anti-capitalistas, mientras se introducen elementos convivenciales en estructuras opresivas. Siempre que no se comprometan las líneas rojas.
+Uso estratégico, vigilado, de recursos/metodologías capitalistas para fines anti-capitalistas, mientras se introducen elementos convivenciales en estructuras opresivas[^2]. Dado que la contradicción es inherente a la práctica política y a mi existencia misma dentro del sistema, es posible vigilar toda oportunidad para obtener algo del sistema y sacarlo de allí (ej. comprar libros para ponerlos a disposición permanente de redes de lectura es una forma de convertir una mercancía en un bien común; dedicar un porcentaje de mi salario a un fondo para proyectos autonomistas de impacto urgente), pero también para introducir elementos antisistémicos dentro de la dinámica (ej. cuando estuve a cargo de un equipo y traté de establecer dinámicas horizontales de consenso y reflexionar conjuntamente sobre cómo mejora la organización del trabajo). Pero en cada caso es vital seguir activmamente los principios y observar permanentemente los riesgos que esto conlleva (ver más abajo).
 
-Fundamento: Guerra de posiciones gramsciana (cuidando el reformismo), *praxis* freireana, especifismo anarquista, el concepto de *unidad táctica*.
+[^2]: Fundamento: Guerra de posiciones gramsciana (cuidando el reformismo), *praxis* freireana, especifismo anarquista, el concepto de *unidad táctica*.
 
-### Complicidad diferenciada
+### 3. Complicidad diferenciada
 
-Es la distinción ética entre participación sistémica evitable versus no evitable, o difícilmente evitable.
+Siempre es posible, para cada acción, hacer una distinción ética entre participación sistémica evitable versus no evitable, o difícilmente evitable[^3]. La idea general es no hacer nada evitable, evaluar rígidamente lo difícilmente evitable y lo evitable. Sin excepción, siempre hay que documentar los casos y contradicciones para buscar tomar mejores decisiones en situaciones similares.
 
-Fundamento: Utilitarismo de reglas (Mill), y Ética de la responsabilidad (Weber)
+[^3]: Fundamento: Pragmatismo peirciano, reflexividad etnográfica
 
 ### Tecnologías Convivenciales
 
-Son las herramientas que maximizan autonomía, creatividad y control democrático.
+Toda herramienta que maximiza la autonomía, la creatividad y el control democrático es siempre preferible y deseable[^4]. Toda herramienta que atenta contra ello, o que tiene un límite claro donde se vuelve *contraproductiva* (produce el resultado contrario al esperado cuando se usa a cierta escala), es indeseable y, debería ser reemplazada.
 
-Fundamento: Filosofía de la tecnología (Illich) 
+[^4]: Fundamento: La convivencialidad de Iván Illich. Ver también [prototipar-utopias](prototipar-utopias)
 
 ### Prefiguración Ética
 
-Es el principio de que los medios deben incorporar los valores de los fines buscados.
+Los medios deben incorporar los valores de los fines buscados[^5]. Trata de pensar, actuar y planificar como si ya vivieras en el mundo que aspiras constuir.
 
-Fundamento: Anarquismo clásico (unidad de medios y fines), políticas prefigurativas (Graeber), revolución intersticial.
+[^5]: Fundamento: Anarquismo clásico (unidad de medios y fines), políticas prefigurativas (Graeber), revolución intersticial.
 
 ## Principios operativos
 
 ### 1. Utopismo dirigido
 
-- Objetivos específicos y medibles hacia convivencialidad
-- Límites temporales definidos para situaciones contradictorias
-- Criterios de evaluación periódica del progreso
+- [Prototipar utopías](prototipar-utopias)[^6]. Esto es, la experimentación iterativa con retroalimentación constante, buscando una escalabilidad progresiva desde lo micro a lo sistémico, el aprendizaje colectivo y la transferencia de metodologías
+- Establece límites temporales definidos para situaciones contradictorias
+- Define criterios de evaluación periódica de la efectividad (o el daño, en su defecto) de una acción, sobre todo si estás participando en iniciativas indeseables. 
+
+[^6]: Fundamento: Pensamiento de diseño (crítico), teoría de sistemas y la teoría de Illich
 
 ### 2. Definir criterios de «daño diferencial»
 
-- Líneas rojas no negociables si atentan en un grado contra la autonomía, la voluntad, o incrementan en un grado la opresión y la desigualdad
+- En principio, deberías tener líneas rojas no negociables si atentan en un grado contra la autonomía, la voluntad, o incrementan en un grado la opresión y la desigualdad
     - Es imposible establecer una «medida objetiva» de qué grado cruza la línea roja. Es algo que se debe establecer caso por caso atendiento a las condiciones históricas y subjetivas de la situación, pero debería documentarse y analizarse cada vez.
-- Documentar la proporcionalidad entre daños causados y beneficios transformadores.
-- Evaluar siempre la disponibilidad de alternativas menos dañinas
+- Documenta la proporcionalidad entre daños causados y beneficios transformadores.
+- Evalua siempre la disponibilidad de alternativas menos dañinas
 
 ### 3. Colectivismo
 
-- Reinversión sistemática de recursos en alternativas
-- Red de apoyo y responsabilidad mutua
-- Contribución a transiciones colectivas, no solo individuales
+- Procura transferir recursos materiales e intelectuales hacia alternativas
+- Procura cultivar una red de apoyo y responsabilidad mutua
+- Procura contribuir a transiciones colectivas
 
 ### 4. Sostenibilidad psicológica
 
-- Transparencia radical sobre las contradicciones vividas
-- Mecanismos para manejar disonancia cognitiva
-- Límites personales para prevenir cooptación
-
-## Metodología: Prototipar Utopías
-
-### Características
-
-- Experimentación iterativa con retroalimentación constante
-- Escalabilidad progresiva desde lo micro a lo sistémico
-- Aprendizaje colectivo y transferencia de metodologías
-
-Fundamento: Pensamiento de diseño (crítico), teoría de sistemas
-
-### Estados
-
-1. Infiltración: Funcionar dentro del sistema actual
-2. Contaminación: Introducir elementos convivenciales
-3. Revelación: Activar potencial transformador completo
+- Sé radicalmente transparente sobre las contradicciones que estás viviendo
+- Crea y utiliza mecanismos para manejar la disonancia cognitiva
+- Para cada caso, establece límites personales para prevenir cooptación
 
 ## Criterios de evaluación ética
-
-### Preguntas clave
 
 - ¿Esta decisión prefigura el mundo que busco crear?
 - ¿Es una complicidad necesaria o evitable?
@@ -105,31 +88,14 @@ Fundamento: Pensamiento de diseño (crítico), teoría de sistemas
 - ¿Es psicológicamente sostenible a largo plazo?
 - ¿Contribuye a transiciones sistémicas o solo personales?
 
-### Métricas de éxito
-
-- Cuantitativas: % de recursos reinvertidos, número de personas formadas, cooperativas creadas
-- Cualitativas: Nivel de convivencialidad logrado, grado de autonomía colectiva, sostenibilidad de las alternativas propuestas
-
-## Diferencias respecto a otras posiciones
-
-VS. ÉTICA DE LA PUREZA
-: Aceptar la contradicción como condición, no como fallo moral.
-
-VS. CONSECUENCIALISMO PURO
-: Elabora líneas rojas no negociables por cada situación en relación con las condiciones materiales y estructurales más amplias.
-
-VS. REFORMISMO LIBERAL
-: Esta estrategia persigue una transformación sistémica, no mejoras graduales, no pequeñas mejoras generales.
-
-VS. PURISMO REVOLUCIONARIO
-: Reconoce condiciones materiales que limitan opciones éticas.
-
 ## Riesgos
+
+Procura que los riesgos, onmipresentes y esperables desde esta perspectiva, se aborden de manera adecuadoa. Deberías documentarlos, pensarlos reflexivamente, mitigarlos en lo posible, y generar aprendizaje compartido a partir de ellos.
 
 ### Señales de alerta
 
 - Si normalizo las contradicciones antes cuestionadas
-- Si pierdo mi conexión con alternativas transformadoras
+- si pierdo mi conexión con alternativas transformadoras
 - Si racionalizo decisiones no justificables transparentemente
 - Si me aislo de mis redes de apoyo crítico
 
@@ -139,4 +105,3 @@ VS. PURISMO REVOLUCIONARIO
 - ¿Qué pasa si encuentro una alternativa menos contradictoria?
 - ¿Qué pasa si llego al límite de la capacidad de transformación de esta estrategia?
 - ¿Cuánto tiempo debería pasar sin resultados satisfactorios para considedarla un fracaso?
-
