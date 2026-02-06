@@ -7,7 +7,7 @@ tags:
 lang: es
 ---
 
-El último trimestre del 2025 encontré trabajo, trabajé y renuncié por *burnout*. [Vaya ironía](empezar-de-nuevo). Por eso dejé el blog. Ahora estoy en una situación muy parecida a inicios del año pasado, pero más viejo, más cansado y con más presiones. Igual no me quejo, encuentro felicidad en muchas cosas, mi familia, mi mundo interior, la esperanza de que el mundo exterior podría virar a mejores vientos tras superar las nefastas coyunturas que atraviesa ahora.
+El último trimestre del 2025 encontré trabajo, trabajé y renuncié por *burnout*. [Vaya ironía](empezar-de-nuevo). Por eso dejé el blog. Ahora estoy en una situación muy parecida a inicios del año pasado, pero más viejo, más cansado y con más presiones. Igual no me quejo: encuentro felicidad en muchas cosas, mi familia, mi mundo interior, la esperanza de que el mundo exterior podría virar a mejores vientos tras superar las nefastas coyunturas que atraviesa ahora.
 
 Fuera de eso:
 

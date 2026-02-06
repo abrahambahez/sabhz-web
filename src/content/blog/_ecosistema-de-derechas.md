@@ -1,14 +1,16 @@
-
 ---
 title: "Esbozos de un ecosistema de las derechas"
-createdAt: 2026-01-21T21:50
-updatedAt: 2026-01-21T21:50
+createdAt: 2026-02-05T18:04
+updatedAt: 2026-02-05T18:05
 tags:
   - Publicacion
 lang: es
 ---
+## Contenido
 
-## sobre esta clasificación
+## Introducción
+
+## Esbozo de un mapa de las derechas
 
 Este esquema abandona taxonomías formales que pueden aplicarse igualmente a izquierda y derecha. En su lugar, identifica **fundamentos** analíticos que capturan ideas, narrativas y emociones motivantes del escenario actual, reconociendo su naturaleza contradictoria, ambigua y fluida.
 
@@ -531,3 +533,5 @@ Este esquema abandona taxonomías formales que pueden aplicarse igualmente a izq
 **investigación participativa**: Gamificación de búsqueda de "verdad". Central en conspiracionismo, partes de manósfera.
 
 **terrorismo estocástico**: Difusión masiva de ideas que generan violencia sin coordinación directa. Alt-right, supremacismo, aceleracionismo.
+
+Cómo integrar al maltusianismo https://es.wikipedia.org/wiki/Malthusianismo
