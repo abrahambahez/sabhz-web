@@ -52,11 +52,15 @@ En [esta Mesa de opinión de RompevientoTV](https://youtu.be/Hs24KhhWni4?si=Ghk-
 
 La única mención a lo «latino» es el mero inicio del espectáculo, cuando el guitarrista campesino dice: «qué rico es ser latino». Podría argumentarse que esa frase y su posición en el espectáculo posicionan implícitamente ese tópico como uno de los principales, y eso puede ser parcialmente cierto para la audiencia blanca estadounidense, pero la audiencia hispanohablante recibió muchos más mensajes de celebración, colectividad y amor propio que de «unión latina». Los angloparlantes recibieron como mensaje directo esto: *The only thing more powerful than hate is love*.
 
+Como suele pasar cuando nos quedamos en un solo tema, la discusión se sale por la tangente, ignorando muchísimo del *contexto* y la posición del artista en él. Ignorando que lo latino en EEUU es un constructo racializado nada qué ver con otros países, porque la racialización es contextual; olvidando que la reacción a lo latino está del lado de la audiencia y que, si vas a analizarlo, considera algo parecido a la teoría de la recepción y no al análisis de contenido de lo que diga el conejo. Olvidando que un espectáculo capitalista es una especie de fiesta y el conejo es un reguetonero, y por eso se va a poner a fiestear, no a *rockanrollear*, y que si eso es un estereotipo, lo es para el Otro blanco, no para las personas que, efectivamente, ponen salsa o perreo en sus pinches bodas y fiestas (sobre todo en, no sé, ¿Puerto Rico? El lugar donde nacieron ambos géneros).
+
 ## Mis quejas amargas
 
-Estamos confundiendo niveles de escala, y posiciones en el embudo de la politización. Si ya eres de izquierda, chido por ti. Pero si una persona que está constantemente asediada por la infraestructura de radicalización de derechas puede elegir politizarse a la izquierda gracias a [*LA MuDANZA*](https://www.youtube.com/watch?v=LioWkQeqAqs) ¡ayúdalo!.
+Las críticas se enfocan demasiado en lo que el conejo ***no es** y ***no hizo*** en su espectáctulo como producto comunicativo. No es un revolucionario, no es Michael Jackson ni un director de orquesta, no es miembro de un pueblo originario, no es un académico. Tampoco creó un mundo latino genérico estereotípico como sí hicieron, por ejemplo, películas como Encanto o Coco, de Disney. 
 
-Como suele pasar cuando nos quedamos en un solo tema, la discusión se sale por la tangente, ignorando muchísimo del *contexto* y la posición del artista en él. Ignorando que lo latino en EEUU es un constructo racializado nada qué ver con otros países, porque la racialización es contextual; olvidando que la reacción a lo latino está del lado de la audiencia y que, si vas a analizarlo, considera algo parecido a la teoría de la recepción y no al análisis de contenido de lo que diga el conejo. Olvidando que un espectáculo capitalista es una especie de fiesta y el conejo es un reguetonero, y por eso se va a poner a perrear y *puertorriquear*, no a *rockanrollear*, y que si eso es un estereotipo, lo es para el Otro blanco, no para las personas que, efectivamente, ponen salsa o perreo en sus pinches bodas y fiestas (sobre todo en, no sé, ¿Puerto Rico? El lugar donde nacieron ambos géneros).
+Estamos confundiendo niveles de escala, y posiciones en el embudo de la politización.
+
+Si ya eres de izquierda, chido por ti. Pero si una persona que está constantemente asediada por la infraestructura de radicalización de derechas puede elegir politizarse a la izquierda gracias a [*LA MuDANZA*](https://www.youtube.com/watch?v=LioWkQeqAqs) ¡ayúdalo, chingao!.
 
 \***
 
@@ -68,5 +72,5 @@ Perdón, me exalté. Mi punto en realidad es el siguiente:
 
 Mientras más escucho los «análisis» izquierdistas sobre Bad Bunny, menos dudas tengo sobre la ineficacia de las izquierdas, como frente general.
 
-*No vamos a ganarle a las derechas sin ofrecerle a la gente perreo, salsa, cumbia, [lo que quieras] y amor propio. No es suficiente, pero es necesario. Más porque no puedes ofrecer solamente rabia e indignación.*
+*No vamos a ganarle a las derechas sin ofrecerle a la gente perreo, salsa, cumbia, [lo que quieras] y amor propio. No es suficiente, pero es necesario. Mucho más si lo único que les ofreces es culpa, rabia e indignación.*
 
