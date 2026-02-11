@@ -9,7 +9,7 @@ updatedAt: "2026-02-05T18:27"
 
 <h1 style="margin-top:0;"><a href="/">Sobre mí</a></h1>
 
-¡Hola! Soy Abraham Bahez.
+¡Hola! Me llamo Abraham.
 
 Antropólogo, comunicólogo y un nerd de internet (he trabajado 8 años como Product Manager técnico). Nací en la Ciudad de México, actualmente vivo en la península de Yucatán.
 

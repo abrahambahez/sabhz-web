@@ -34,7 +34,7 @@ Como desarrollar todo en una sola publicación sería demasiado largo, usaré es
 - Analfabetismo tecnológico militante
 - Moralismo que fomenta sentimientos negativos como fuente de movilización (culpa, rabia, indignación), que son desgastantes, contraproducentes e insostenibles a largo plazo
 - Incapacidad de comunicar asertivamente la complejidad de los problemas para construir una cosmovisión deseable y movilizar iniciativas
-- Escacez de narrativas de victoria
+- Escasez de narrativas de victoria
 
 ## 3. De la ausencia de estructuras fuera del Estado y el desgaste de las alternativas
 
