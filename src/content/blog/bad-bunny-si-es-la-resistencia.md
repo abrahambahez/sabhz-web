@@ -1,7 +1,7 @@
 ---
 title: "Bad Bunny SÍ es la P*TA resistencia"
 createdAt: 2026-02-10T17:39
-updatedAt: 2026-02-10T17:39
+updatedAt: 2026-02-11T14:54
 lang: es
 tags:
   - Publicacion
@@ -24,9 +24,9 @@ La derecha internacional ha estado teniendo éxito por dos razones:
 
 Las derechas internacionales no dependen totalmente de *ganar elecciones* para generar movilización y expandirse (a diferencia de muchas izquierdas, especialmente en Latam). Te puedes radicalizar en un [gimnasio](https://www.brunel.ac.uk/news-and-events/news/articles/Muscular-men-less-likely-to-support-social-and-economic-equality-study-suggests), en una iglesia[^2], en un curso de [bienestar personal](https://journals.sagepub.com/doi/full/10.1177/13675494211062623), viendo [un video random de Youtube o en un chat de videojuegos para *zoomers*](https://u.osu.edu/writing/2021/04/21/636/), o en un chat que comparte contenidos de [energías espirituales](https://www.tandfonline.com/doi/full/10.1080/00131857.2022.2061948) o [viendo memes todo el maldito día](https://journals.openedition.org/angles/369) (¿Cuál crees que es la actividad favorita de los más jóvenes?).
 
-[^2]: Puede sonar obvio que una iglesia sea un espacio de *derechización*, pero las iglesias cristianas tienen alas izquierdistas y derechistas, e históricamente han fluctuado.
+[^2]: Puede sonar obvio que una iglesia sea un espacio de *derechización*, pero las iglesias cristianas tienen alas izquierdistas y derechistas, e históricamente han fluctuado. Ejemplos de esto son la [teología de la liberación](https://es.wikipedia.org/wiki/Teolog%C3%ADa_de_la_liberaci%C3%B3n) o el debate derivado del [Concilio Vaticano II](https://es.wikipedia.org/wiki/Concilio_Vaticano_II).
 
-*La ineficacia es casi un sello de las izquierdas actuales.*
+*Por otro lado, la ineficacia es casi un sello de las izquierdas actuales.*
 
 Una razón importante para eso está en lo que podemos agrupar como la *irrelevancia comunicativa actual*, tres de cuyas características[^3] recupero aquí:
 
@@ -38,8 +38,6 @@ Una razón importante para eso está en lo que podemos agrupar como la *irreleva
 
 ## Luego pasa lo de Bad Bunny
 
-¡Vaya sorpresa!
-
 Algunos revolucionarios, campeones de la obviedad, nos recuerdan que:
 
 1. El medio tiempo del *Super Bowl* es un *espectáculo* mediado por la maquinaria capitalista *marketera* (cualquier izquierdista random)
@@ -48,11 +46,13 @@ Algunos revolucionarios, campeones de la obviedad, nos recuerdan que:
 
 Otres izquierdistas tienen un especial talento para encontrar el aspecto que menos tiene que ver con el tema para sacar su análisis.
 
-En [esta Mesa de opinión de RompevientoTV](https://youtu.be/Hs24KhhWni4?si=Ghk-zbJ1VrZ9rk1X) una buena parte del tiempo se discutió, a momentos bastante a profundidad, la categoría de «lo latino», como si ese hubiera sido el mensaje principal de todo el performance. Aunque Bad Bunny jamás dijo la palabra «latino» durante el espectáculo, y no mostró *nada* genéricamente latino en él (a menos que cuentes las animaciones del inicio y el final de Apple Music). La mayoría de las referencias, por ejemplo, los locales de comida y bebida, eran referencias a lugares reales de migrantes en Nueva York o California, y lo que quiso representar fue más específicamente a Puerto Rico, no a Latinoamérica.
+En [esta Mesa de opinión de RompevientoTV](https://youtu.be/Hs24KhhWni4?si=Ghk-zbJ1VrZ9rk1X) una buena parte del tiempo se discutió, a momentos bastante a profundidad, la categoría de «lo latino», como si ese hubiera sido el mensaje principal de todo el performance. Aunque Bad Bunny jamás dijo la palabra «latino» durante el espectáculo, y no mostró *nada* genéricamente latino en él (a menos que cuentes las animaciones del inicio y el final de Apple Music). La mayoría de las referencias, por ejemplo, los locales de comida y bebida, eran referencias a lugares reales de migrantes en Nueva York o California, y lo que quiso representar fue más específicamente a Puerto Rico, no Latinoamérica.
 
-La única mención a lo «latino» es el mero inicio del espectáculo, cuando el guitarrista campesino dice: «qué rico es ser latino». Podría argumentarse que esa frase y su posición en el espectáculo posicionan implícitamente ese tópico como uno de los principales, y eso puede ser parcialmente cierto para la audiencia blanca estadounidense, pero la audiencia hispanohablante recibió muchos más mensajes de celebración, colectividad y amor propio que de «unión latina». Los angloparlantes recibieron como mensaje directo esto: *The only thing more powerful than hate is love*.
+La única mención a lo «latino» es el mero inicio del espectáculo, cuando el guitarrista campesino dice: «qué rico es ser latino». Podría argumentarse que esa frase y su posición al inicio del espectáculo imponen implícitamente ese tópico como uno de los principales, y eso puede ser parcialmente cierto para la audiencia blanca estadounidense, pero la audiencia hispanohablante recibió muchos más mensajes de celebración, colectividad y amor propio que de «unión latina». Los angloparlantes recibieron como mensaje directo esto: *The only thing more powerful than hate is love*.
 
 Como suele pasar cuando nos quedamos en un solo tema, la discusión se sale por la tangente, ignorando muchísimo del *contexto* y la posición del artista en él. Ignorando que lo latino en EEUU es un constructo racializado nada qué ver con otros países, porque la racialización es contextual; olvidando que la reacción a lo latino está del lado de la audiencia y que, si vas a analizarlo, considera algo parecido a la teoría de la recepción y no al análisis de contenido de lo que diga el conejo. Olvidando que un espectáculo capitalista es una especie de fiesta y el conejo es un reguetonero, y por eso se va a poner a fiestear, no a *rockanrollear*, y que si eso es un estereotipo, lo es para el Otro blanco, no para las personas que, efectivamente, ponen salsa o perreo en sus pinches bodas y fiestas (sobre todo en, no sé, ¿Puerto Rico? El lugar donde nacieron ambos géneros).
+
+No es que «lo latino» no haya sido un tema importante del evento. Pero fue un tema implícito y de recepción, no uno explícito del contenido en sí.
 
 ## Mis quejas amargas
 
@@ -60,7 +60,7 @@ Las críticas se enfocan demasiado en lo que el conejo ***no es*** y ***no hizo*
 
 Estamos confundiendo niveles de escala, y posiciones en el embudo de la politización.
 
-Si ya eres de izquierda, chido por ti. Pero si una persona que está constantemente asediada por la infraestructura de radicalización de derechas puede elegir politizarse a la izquierda gracias a [*LA MuDANZA*](https://www.youtube.com/watch?v=LioWkQeqAqs) ¡ayúdalo, chingao!.
+Si ya eres de izquierda, chido por ti. Pero si una persona que está constantemente asediada por la infraestructura de radicalización de derechas puede elegir politizarse a la izquierda gracias a [*LA MuDANZA*](https://www.youtube.com/watch?v=LioWkQeqAqs) ¡ayúdalo, chingao, guíalo hacia las pinches fuentes anticolonialistas! Después, en otros espacios, podemos conversar sobre cómo el español es en sí mismo una lengua colonial.
 
 \***
 
@@ -68,9 +68,9 @@ Perdón, me exalté. Mi punto en realidad es el siguiente:
 
 *PewDiPie* fue durante mucho tiempo el youtuber con más seguidores en esa plataforma. Su contenido eran videojuegos, memes y Minecraft. Las derechas encontraron la forma de usar su enorme audiencia para generar radicalización. Él en sí mismo no es un derechista extremo, y, de hecho, fuera de su audiencia es un blanco *normie*.
 
-¿Por qué la izquierda, en lugar de aprovechar posiciones *tácticas* clave para generar conciencia política, *dentro del sistema*, hace lo que hace con sus análisis y su purismo ideológico?
+¿Por qué la izquierda no ve al conejo como una oportunidad *táctica*?
 
-Mientras más escucho los «análisis» izquierdistas sobre Bad Bunny, menos dudas tengo sobre la ineficacia de las izquierdas, como frente general.
+Mientras más escucho los «análisis» izquierdistas sobre Bad Bunny, menos dudas tengo sobre la ineficacia de esas izquierdas como frente general.
 
-*No vamos a ganarle a las derechas sin ofrecerle a la gente perreo, salsa, cumbia, [lo que quieras] y amor propio. No es suficiente, pero es necesario. Mucho más si lo único que les ofreces es culpa, rabia e indignación.*
+*No vamos a ganarle a las derechas sin ofrecerle a la gente perreo, salsa, cumbia, [lo que quieras] y amor propio. No es suficiente, pero es necesario. Mucho más necesario si lo único que hemos ofrecido históricamente son sentimientos como culpa, rabia e indignación.*
 
