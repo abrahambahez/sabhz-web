@@ -56,7 +56,7 @@ Como suele pasar cuando nos quedamos en un solo tema, la discusión se sale por 
 
 ## Mis quejas amargas
 
-Las críticas se enfocan demasiado en lo que el conejo ***no es** y ***no hizo*** en su espectáctulo como producto comunicativo. No es un revolucionario, no es Michael Jackson ni un director de orquesta, no es miembro de un pueblo originario, no es un académico. Tampoco creó un mundo latino genérico estereotípico como sí hicieron, por ejemplo, películas como Encanto o Coco, de Disney. 
+Las críticas se enfocan demasiado en lo que el conejo ***no es*** y ***no hizo*** en su espectáctulo como producto comunicativo. No es un revolucionario, no es Michael Jackson ni un director de orquesta, no es miembro de un pueblo originario, no es un académico. Tampoco creó un mundo latino genérico estereotípico como sí hicieron, por ejemplo, películas como Encanto o Coco, de Disney. 
 
 Estamos confundiendo niveles de escala, y posiciones en el embudo de la politización.
 
